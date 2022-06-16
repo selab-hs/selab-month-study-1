@@ -4,7 +4,7 @@
 |일자|손장미|황인준|
 |---|---|---|
 |2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list)|
-|2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|김인준 바보|
+|2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list)|
 
 
 <!--
@@ -20,4 +20,4 @@
 ### 휴가권 (5일)
 |일자|이름|사유|
 |---|---|---|
-|2022-06-14|김동건||
+|2022-06-16|황인준|회사 회식|
