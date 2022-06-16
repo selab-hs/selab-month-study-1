@@ -16,6 +16,7 @@
 |주제|손장미|황인준|
 |---|---|---|
 |osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)|
+|IOC, DI, AOP||
 
 ### 휴가권 (5일)
 |일자|이름|사유|
