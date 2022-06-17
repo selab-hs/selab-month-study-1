@@ -36,7 +36,7 @@
 |---|---|---|
 |osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)|
 |IOC, DI, AOP||[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)|
-|접근제한자, 생성자, SOLID|||
+|접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)||
 |Java Collection|||
 
 <!--
