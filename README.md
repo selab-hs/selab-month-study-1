@@ -11,9 +11,9 @@
 
 ### 🤙 RULE
 
-- 매일 매일 공부를 하지 않으면 벌금 2만원
-- 중도 탈퇴 벌금 20만원
-- 휴가원을 쓰는 날에는 푹~~ 쉬기
+- 매일 매일 공부를 하지 않으면 벌금 200만원
+- 중도 탈퇴 벌금 2000만원
+- 휴가권을 쓰는 날에는 푹~~ 쉬기
 
 ### 🙂 매일 매일 공부
 
@@ -39,7 +39,7 @@
 |osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)|
 |IOC, DI, AOP||[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)|
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)||
-|Java Collection|||
+|Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)||
 
 <!--
 |테스트1|테스트2|테스트3|
