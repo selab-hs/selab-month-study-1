@@ -1,12 +1,13 @@
-# selab-3month-study
-> 기간 2022년 6월 14일 ~ 9월 14일
+# selab-3/6-month-study
+- 3개월팀  기간 2022년 6월 14일 ~ 2022년 9월 14일
+- 6개월팀  기간 2022년 6월 19일 ~ 2023년 2월 19일
 
 ### 🙆 People
 
-|     극락     |    소주마스터     |     알콜 킬러      |
+|     극락     |    소주마스터     |     알콜 킬러      |      SPACE          |
 | :-----------------------------------: | :-----------------: | :----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |
-|   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   | 
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> ||
+|   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   || 
 
 
 ### 🤙 RULE
@@ -18,16 +19,16 @@
 
 ### 🙂 매일 매일 공부
 
-|일자|손장미|황인준|
-|---|---|---|
-|2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-16|[day3 🌕](https://velog.io/@newbiekim/day3-q36l7vzk)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-17|[day4 🌕](https://velog.io/@newbiekim/day4-bhs130v5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-18|[day5 🌕](https://velog.io/@newbiekim/day5-g0hh7fld)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-19|[day6 🌕](https://velog.io/@newbiekim/day6-grhy1zyp)||
-|2022-06-20|||
-|2022-06-21|||
+|일자|손장미|황인준|이우주|
+|---|---|---|---|
+|2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-16|[day3 🌕](https://velog.io/@newbiekim/day3-q36l7vzk)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-17|[day4 🌕](https://velog.io/@newbiekim/day4-bhs130v5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-18|[day5 🌕](https://velog.io/@newbiekim/day5-g0hh7fld)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-19|[day6 🌕](https://velog.io/@newbiekim/day6-grhy1zyp)|||
+|2022-06-20||||
+|2022-06-21||||
 
 <!--
 |테스트1|테스트2|테스트3|
