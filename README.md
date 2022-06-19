@@ -22,8 +22,8 @@
 |2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
 |2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
 |2022-06-16|[day3 🌕](https://velog.io/@newbiekim/day3-q36l7vzk)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
-|2022-06-17|[day4 🌕](https://velog.io/@newbiekim/day4-bhs130v5)||
-|2022-06-18|[day5 🌕](https://velog.io/@newbiekim/day5-g0hh7fld)||
+|2022-06-17|[day4 🌕](https://velog.io/@newbiekim/day4-bhs130v5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
+|2022-06-18|[day5 🌕](https://velog.io/@newbiekim/day5-g0hh7fld)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)|
 |2022-06-19|||
 
 
@@ -50,4 +50,4 @@
 
 |일자|이름|사유|
 |---|---|---|
-|2022-06-14|||
+|2022-06-18|황인준|지인 약속|
