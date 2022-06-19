@@ -1,5 +1,5 @@
 # selab-3month-study
-
+> 기간 2022년 6월 14일 ~ 9월 14일
 
 ### 🙆 People
 
