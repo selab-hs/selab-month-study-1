@@ -40,6 +40,7 @@
 |IOC, DI, AOP||[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)|
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)||
+|알고리즘 - 정렬||
 
 <!--
 |테스트1|테스트2|테스트3|
