@@ -38,15 +38,15 @@
 
 ### 😍 오늘의 토픽
 
-|주제|손장미|황인준|
-|---|---|---|
-|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)|
-|IOC, DI, AOP||[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)|
-|접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)||
-|Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)||
-|알고리즘 - 정렬|||
-|bean vs component|||
-|GIT-HUB |||
+|주제|손장미|황인준|이우주|
+|---|---|---|---|
+|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||
+|IOC, DI, AOP||[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||
+|접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|||
+|Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|||
+|알고리즘 - 정렬||||
+|bean vs component||||
+|GIT-HUB ||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -54,8 +54,12 @@
 -->
 
 
-### 💕 휴가권 (5일)
+### 💕 휴가권 (5일, 20일)
 
 |일자|이름|사유|남은 일수|
 |---|---|---|---|
+|2022-06-14|황인준|초기생성|5|
+|2022-06-14|손장미|초기생성|5|
+|2022-06-19|이우주|초기생성|20|
 |2022-06-18|황인준|지인 약속|4|
+
