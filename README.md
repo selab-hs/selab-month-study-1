@@ -28,7 +28,7 @@
 |2022-06-18|[day5 🌕](https://velog.io/@newbiekim/day5-g0hh7fld)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-19|[day6 🌕](https://velog.io/@newbiekim/day6-grhy1zyp)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-20|[day7 🌕](https://velog.io/@newbiekim/day7-47sljca3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||[day1] (https://github.com/xxeblue/TIL1)|
-|2022-06-21||||
+|2022-06-21||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -42,7 +42,7 @@
 |---|---|---|---|
 |osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||
 |IOC, DI, AOP|[IoC, DI, AOP 정리](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||
-|접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|||
+|접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|||
 |알고리즘 - 정렬||||
 |bean vs component||||
