@@ -6,8 +6,8 @@
 
 |     극락     |    소주마스터     |     알콜 킬러      |      SPACE          |
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> ||
-|   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   || 
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|
+|   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   |   [이우주](https://github.com/xxeblue)| 
 
 
 ### 🤙 RULE
