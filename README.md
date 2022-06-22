@@ -50,7 +50,7 @@
 |bean vs component||[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||
 |GIT-HUB ||||
 |DNS|[DNS 정리](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||
-|멀티프로세스와 멀티스레드 차이|||[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)|
+|멀티프로세스와 멀티스레드 차이||[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||
 |교착상태||||
 
 <!--
