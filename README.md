@@ -51,6 +51,7 @@
 |GIT-HUB ||||
 |DNS|[DNS 정리](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|||
 |멀티프로세스와 멀티스레드 차이||||
+|교착상태||||
 
 <!--
 |테스트1|테스트2|테스트3|
