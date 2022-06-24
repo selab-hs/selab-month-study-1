@@ -31,7 +31,7 @@
 |2022-06-21|[day8 🌕](https://velog.io/@newbiekim/day8-7uiyy309)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-22|[day9 🌕](https://velog.io/@newbiekim/day9-3kyr055q)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-23|[day10 🌕](https://velog.io/@newbiekim/day10-j9kawkp1)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
-|2022-06-24||||
+|2022-06-24|[day11 🌕](https://velog.io/@newbiekim/day11-ike86hj5)|||
 |2022-06-25||||
 
 <!--
@@ -67,7 +67,7 @@
 ### 😍 주간 회고록
 |일자|손장미|황인준|이우주|
 |---|---|---|---|
-|||||
+|2022-06-14 ~ 2022-06-19|[1주차](https://velog.io/@newbiekim/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|||
 
 
 ### 💕 휴가권 (5일, 20일)
