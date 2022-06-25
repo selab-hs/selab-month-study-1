@@ -32,7 +32,10 @@
 |2022-06-22|[day9 🌕](https://velog.io/@newbiekim/day9-3kyr055q)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-23|[day10 🌕](https://velog.io/@newbiekim/day10-j9kawkp1)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-24|[day11 🌕](https://velog.io/@newbiekim/day11-ike86hj5)|||
-|2022-06-25||||
+|2022-06-25|[day12 🌕](https://velog.io/@newbiekim/day12-i66ut3g4)|||
+|2022-06-26||||
+|2022-06-27||||
+|2022-06-28||||
 
 <!--
 |테스트1|테스트2|테스트3|
