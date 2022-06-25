@@ -58,6 +58,7 @@
 |REST API||||
 |동기 vs 비동가||||
 |OSI L4||||
+|concurrency vs parallelism||||
 
 <!--
 |테스트1|테스트2|테스트3|
