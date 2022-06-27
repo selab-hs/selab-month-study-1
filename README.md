@@ -62,6 +62,7 @@
 |동기 vs 비동기||||
 |OSI L4||||
 |concurrency vs parallelism||||
+|로드밸런스||||
 
 <!--
 |테스트1|테스트2|테스트3|
