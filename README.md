@@ -51,12 +51,12 @@
 |IOC, DI, AOP|[IoC, DI, AOP 정리](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||
-|알고리즘 - 정렬||[InJUn2/CS/Algorithm](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/.md)||
+|알고리즘 - 정렬||[InJUn2/CS/Algorithm](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||
 |bean vs component|[컴포넌트와 빈의 차이 정리](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||
 |GIT ||||
 |DNS|[DNS 정리](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||
 |멀티프로세스와 멀티스레드 차이|[멀티프로세스와 멀티스레드의 차이 정리](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||
-|교착상태|[교착 상태(Dead Lock) 정리](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|||
+|교착상태|[교착 상태(Dead Lock) 정리](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||
 |세마포어와 뮤텍스|[세마포어와 뮤텍스 정리](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|||
 |REST API||||
 |동기 vs 비동기||||
