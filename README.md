@@ -72,7 +72,7 @@
 |일자|손장미|황인준|이우주|
 |---|---|---|---|
 |2022-06-14 ~ 2022-06-19|[1주차](https://velog.io/@newbiekim/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|||
-|2022-06-20 ~ 2022-06-26|[2주차](https://velog.io/@newbiekim/2주차-회고록)|||
+|2022-06-20 ~ 2022-06-26|[2주차](https://velog.io/@newbiekim/2주차-회고록)|[2주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-06-4.md)||
 |||||
 |||||
 |||||
