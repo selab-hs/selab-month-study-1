@@ -66,6 +66,7 @@
 |OSI L4||||
 |concurrency vs parallelism||||
 |로드밸런스||||
+|IP, TCP, UDP, HTTP||||
 
 <!--
 |테스트1|테스트2|테스트3|
