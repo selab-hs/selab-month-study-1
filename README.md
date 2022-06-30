@@ -68,6 +68,8 @@
 |로드밸런스||[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
 |IP, TCP, UDP, HTTP||||
 |Call By Value와 Call By Reference||||
+|Java의 Object||||
+|Dto||||
 
 <!--
 |테스트1|테스트2|테스트3|
