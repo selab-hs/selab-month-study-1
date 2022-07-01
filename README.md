@@ -41,8 +41,8 @@
 |2022-06-26|[day13 🌕](https://velog.io/@newbiekim/day13-v2d53bsl)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-27|[day14 🌕](https://velog.io/@newbiekim/day14-2a8hgskt)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-28|[day15 🌕](https://velog.io/@newbiekim/day15-yhlmgnka)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
-|2022-06-29|[day16 🌕](https://velog.io/@newbiekim/day16-bb20q1h5)|||
-|2022-06-30|[day17 🌕](https://velog.io/@newbiekim/day17-iocakn4x)|||
+|2022-06-29|[day16 🌕](https://velog.io/@newbiekim/day16-bb20q1h5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
+|2022-06-30|[day17 🌕](https://velog.io/@newbiekim/day17-iocakn4x)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
   
 </div>
 </details>
@@ -52,7 +52,7 @@
 |일자|손장미|황인준|이우주|
 |---|---|---|---|
 |2022-07-01|[day18 🌕](https://velog.io/@newbiekim/day18-bdehwfop)|||
-|2022-07-02||||
+|2022-07-02||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-03||||
 
 
