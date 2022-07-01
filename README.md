@@ -19,6 +19,11 @@
 
 ### 🙂 매일 매일 공부
 
+<details>
+<summary>6월</summary>
+<div markdown="1">
+<br>
+
 |일자|손장미|황인준|이우주|
 |---|---|---|---|
 |2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
@@ -38,6 +43,15 @@
 |2022-06-28|[day15 🌕](https://velog.io/@newbiekim/day15-yhlmgnka)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-29|[day16 🌕](https://velog.io/@newbiekim/day16-bb20q1h5)|||
 |2022-06-30|[day17 🌕](https://velog.io/@newbiekim/day17-iocakn4x)|||
+  
+</div>
+</details>
+
+|일자|손장미|황인준|이우주|
+|---|---|---|---|
+|2022-07-01||||
+|2022-07-02||||
+|2022-07-03||||
 
 
 <!--
