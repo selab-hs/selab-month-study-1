@@ -78,7 +78,7 @@
 |교착상태|[교착 상태(Dead Lock) 정리](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||
 |세마포어와 뮤텍스|[세마포어와 뮤텍스 정리](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||
 |REST API|[REST API 정리](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[InJun2/CS/DP](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||
-|동기 vs 비동기|[동기와 비동기 정리](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Synchronous-Asynchronous.md)||
+|동기 vs 비동기|[동기와 비동기 정리](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||
 |OSI L4||||
 |concurrency vs parallelism||||
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
