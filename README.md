@@ -51,9 +51,9 @@
 
 |일자|손장미|황인준|이우주|
 |---|---|---|---|
-|2022-07-01|[day18 🌕](https://velog.io/@newbiekim/day18-bdehwfop)|||
+|2022-07-01|[day18 🌕](https://velog.io/@newbiekim/day18-bdehwfop)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-02|[day19 🌕](https://velog.io/@newbiekim/day19-ianwqdip)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
-|2022-07-03|[day20 🌕](https://velog.io/@newbiekim/day20-tuhdor46)|||
+|2022-07-03|[day20 🌕](https://velog.io/@newbiekim/day20-tuhdor46)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-04||||
 |2022-07-05||||
 |2022-07-06||||
