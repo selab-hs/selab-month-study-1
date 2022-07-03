@@ -85,7 +85,7 @@
 |OSI L4|[OSI L4 정리](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||
 |concurrency vs parallelism||[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
-|IP, TCP, UDP, HTTP||||
+|IP, TCP, UDP, HTTP||[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||
 |Call By Value와 Call By Reference||||
 |Java의 Object||||
 |Dto||||
