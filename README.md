@@ -90,7 +90,7 @@
 |Java의 Object||||
 |Dto||||
 |DB Index||||
-|스프링의 동작 과정||||
+|스프링의 동작 과정||[Injun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||
 |캐시||||
 |java 메모리 구조||||
 
