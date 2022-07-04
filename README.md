@@ -1,4 +1,4 @@
-# selab-3/6-month-study
+# selab-month-study
 - 3개월팀  기간 2022년 6월 14일 ~ 2022년 9월 14일
 - 6개월팀  기간 2022년 6월 19일 ~ 2023년 2월 19일
 
@@ -93,6 +93,7 @@
 |스프링의 동작 과정||[Injun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||
 |캐시||||
 |java 메모리 구조||||
+|객체지향 vs 절차지향||||
 
 
 
