@@ -55,7 +55,7 @@
 |2022-07-02|[day19 🌕](https://velog.io/@newbiekim/day19-ianwqdip)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-03|[day20 🌕](https://velog.io/@newbiekim/day20-tuhdor46)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-04|[day21 🌕](https://velog.io/@newbiekim/day21-xwp3anah)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
-|2022-07-05||||
+|2022-07-05||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-06||||
 
 
@@ -73,7 +73,7 @@
 |IOC, DI, AOP|[IoC, DI, AOP 정리](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||
-|알고리즘 - 정렬||[InJUn2/CS/Algorithm](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||
+|알고리즘 - 정렬||[InJun2/CS/Algorithm](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||
 |bean vs component|[컴포넌트와 빈의 차이 정리](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||
 |GIT ||||
 |DNS|[DNS 정리](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||
@@ -86,7 +86,7 @@
 |concurrency vs parallelism||[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
 |IP, TCP, UDP, HTTP||[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||
-|Call By Value와 Call By Reference||||
+|Call By Value와 Call By Reference||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)||
 |Java의 Object||||
 |Dto||||
 |DB Index||||
