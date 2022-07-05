@@ -88,7 +88,7 @@
 |REST API|[REST API 정리](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[InJun2/CS/DP](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||
 |동기 vs 비동기|[동기와 비동기 정리](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||
 |OSI L4|[OSI L4 정리](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||
-|concurrency vs parallelism||[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||
+|concurrency vs parallelism|[Concurrency VS Parallelism 정리](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
 |IP, TCP, UDP, HTTP|[IP, TCP, UDP, HTTP 정리](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||
 |Call By Value와 Call By Reference||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)||
