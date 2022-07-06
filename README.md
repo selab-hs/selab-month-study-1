@@ -99,6 +99,7 @@
 |캐시||||
 |java 메모리 구조||||
 |객체지향 vs 절차지향||||
+|checked exception vs unchecked exception||||
 
 
 
