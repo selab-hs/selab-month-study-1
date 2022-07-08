@@ -59,7 +59,7 @@
 |2022-07-05|[day22 🌕](https://velog.io/@newbiekim/day22-5ffcxw0q)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||
 |2022-07-06|[day23 🌕](https://velog.io/@newbiekim/day23-wjm9hvda)|||
 |2022-07-07|[day24 🌕](https://velog.io/@newbiekim/day24-k6ra7iwr)|||
-|2022-07-08||||
+|2022-07-08|[day25 🌕](https://velog.io/@newbiekim/day25-tp5qlwko)|||
 |2022-07-09||||
 |2022-07-10||||
 
