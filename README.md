@@ -92,7 +92,7 @@
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||
 |IP, TCP, UDP, HTTP|[IP, TCP, UDP, HTTP 정리](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||
 |Call By Value와 Call By Reference||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)||
-|Java의 Object||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||
+|Java의 Object|[Object 정리](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||
 |Dto||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||
 |DB Index||||
 |스프링의 동작 과정||[Injun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||
