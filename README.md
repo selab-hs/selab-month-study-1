@@ -99,7 +99,7 @@
 |Dto|[DTO 정리](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||
 |DB Index||[InJun2/CS/DB](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||
 |스프링의 동작 과정||[Injun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||
-|캐시||||
+|캐시||[InJun2/CS/Cache](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||
 |java 메모리 구조||||
 |객체지향 vs 절차지향||||
 |checked exception vs unchecked exception||||
