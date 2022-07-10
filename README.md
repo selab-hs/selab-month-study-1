@@ -100,8 +100,8 @@
 |DB Index||[InJun2/CS/DB](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||
 |스프링의 동작 과정||[Injun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||
 |캐시||[InJun2/CS/Cache](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||
-|java 메모리 구조||||
-|객체지향 vs 절차지향||||
+|java 메모리 구조||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||
+|객체지향 vs 절차지향||[InJun2/CS/SE](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||
 |checked exception vs unchecked exception||||
 |Database Engine||||
 
