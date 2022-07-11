@@ -80,7 +80,7 @@
 
 |주제|손장미|황인준|이우주|염지원|
 |---|---|---|---|---|
-|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)|||
+|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[OSI 7계층](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)|
 |IOC, DI, AOP|[IoC, DI, AOP 정리](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)|||
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)|||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)|||
