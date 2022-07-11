@@ -103,7 +103,7 @@
 |캐시||[InJun2/CS/Cache](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)|||
 |java 메모리 구조||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)|||
 |객체지향 vs 절차지향||[InJun2/CS/SE](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)|||
-|checked exception vs unchecked exception|||||
+|checked exception vs unchecked exception||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)|||
 |Database Engine|||||
 |스프링 |||||
 
