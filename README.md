@@ -20,7 +20,7 @@
 | :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
-  |간단 자기소개|간단 자기소개|간단 자기소개|
+  |간단 자기소개|👑퀸벨로퍼👑 가보자고‼|간단 자기소개|
   
   </div>
   
