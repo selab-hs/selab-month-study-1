@@ -11,6 +11,7 @@
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |
 |   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   |  
 | SPACE          |    곱창 좋아요   | 제주도 푸른 밤    |
+| :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
 
