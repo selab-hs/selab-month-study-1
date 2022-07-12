@@ -12,7 +12,7 @@
 | :-----------------------------------: | :-----------------: | :----------------: |
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |
 |   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   |
-  |간단 자기소개|간단 자기소개|한신대 16학번 최약체|
+  |간단 자기소개|연봉 25억을 노리는 성장형 뉴비 개린이|한신대 16학번 최약체|
 
 <br>
 
