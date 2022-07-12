@@ -2,6 +2,8 @@
 - 3개월팀  기간 2022년 6월 14일 ~ 2022년 9월 14일
 - 6개월팀  기간 2022년 6월 19일 ~ 2023년 2월 19일
 
+---
+
 ### 🙆 People
 
 |     극락     |    소주마스터     |     알콜 킬러      |      SPACE          |    곱창 좋아요   | 제주도 푸른 밤    |
@@ -9,6 +11,7 @@
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 |   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   |   [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
 
+---
 
 ### 🤙 RULE
 
@@ -20,6 +23,7 @@
 - 취업 성공시, 극락에게 소고기 20만원치 사주기 (술사주기 무조건임 이거 레알)
 - 3개월 이후 소고기 사주기 
 
+---
 
 ### 🙂 매일 매일 공부
 
@@ -75,6 +79,7 @@
 |테스트1|테스트2|테스트3|
 -->
 
+---
 
 ### 😍 오늘의 토픽
 
@@ -116,6 +121,8 @@
 |테스트1|테스트2|테스트3|
 -->
 
+---
+
 ### 😍 주간 회고록
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |---|---|---|---|---|---|
@@ -125,6 +132,7 @@
 |2022-07-04 ~ 2022-07-10|[4주차](https://velog.io/@newbiekim/4주차-회고록)|[4주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-2주차.md)||||
 |||||||
 
+---
 
 ### 💕 휴가권 (5일, 20일)
 
