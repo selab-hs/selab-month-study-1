@@ -85,7 +85,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |---|---|---|---|---|---|
-|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[OSI 7계층](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)||
+|osi 7계층|[OSI 7계층 정리](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵OSI 7계층](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)||
 |IOC, DI, AOP|[IoC, DI, AOP 정리](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
 |접근제한자, 생성자, SOLID|[접근 제한자, 생성자, SOLID 정리](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
 |Java Collection|[Collection 정리](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
@@ -101,7 +101,7 @@
 |OSI L4|[OSI L4 정리](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||||
 |concurrency vs parallelism|[Concurrency VS Parallelism 정리](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[InJun2/CS/OS](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
 |로드밸런스|[로드 밸런스 정리](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
-|IP, TCP, UDP, HTTP|[IP, TCP, UDP, HTTP 정리](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[IP, TCP, UDP, HTTP](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)||
+|IP, TCP, UDP, HTTP|[IP, TCP, UDP, HTTP 정리](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔴IP, TCP, UDP, HTTP](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)||
 |Call By Value와 Call By Reference||[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
 |Java의 Object|[Object 정리](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
 |Dto|[DTO 정리](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
