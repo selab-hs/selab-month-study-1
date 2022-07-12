@@ -16,7 +16,7 @@
 
 <br>
 
-| SPACE          |    의정   | 제주도 푸른 밤    |
+| SPACE          |    의정부핵꿀밤   | 제주도 푸른 밤    |
 | :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
