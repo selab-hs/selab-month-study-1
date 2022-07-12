@@ -20,7 +20,7 @@
 | :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
-  |간단 자기소개|👑퀸벨로퍼👑 가보자고‼|간단 자기소개|
+  |간단 자기소개|👑퀸벨로퍼👑 가보자고‼|반포 아크로리버파크 좀만 기다려|
   
   </div>
   
@@ -83,7 +83,7 @@
 |2022-07-09|[day26 🌕](https://velog.io/@newbiekim/day26-q2xpyon3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-10|[day27 🌕](https://velog.io/@newbiekim/day27-yp7xeaqh)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day1🌱](https://yummy0102.tistory.com/392)||
 |2022-07-11|[day28 🌕](https://velog.io/@newbiekim/day28-tros04z3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day2🌱](https://yummy0102.tistory.com/394)||
-|2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|||||
+|2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)||||[Twosky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |2022-07-13||||||
 |2022-07-14||||||
 
@@ -98,7 +98,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |---|---|---|---|---|---|
-|osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)||
+|osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[InJun2/CS/Network](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[InJun2/Stack/Spring](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
 |접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
 |Java Collection|[🔵](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[InJun2/Stack/Java](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
