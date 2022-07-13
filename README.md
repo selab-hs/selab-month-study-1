@@ -124,7 +124,7 @@
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||||
 |객체지향 vs 절차지향||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||||
 |checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||||
-|Database Engine|||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)||||
+|Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |스프링 ||||||
 |sdk와 api||||||
 
