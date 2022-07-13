@@ -109,7 +109,7 @@
 |멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||||
 |교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||||
 |세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||||
-|REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||||
+|REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)||
 |동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||||
 |OSI L4|[🔵](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||||
 |concurrency vs parallelism|[🔵](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
