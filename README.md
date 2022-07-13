@@ -83,8 +83,8 @@
 |2022-07-09|[day26 🌕](https://velog.io/@newbiekim/day26-q2xpyon3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-10|[day27 🌕](https://velog.io/@newbiekim/day27-yp7xeaqh)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day1🌱](https://yummy0102.tistory.com/392)||
 |2022-07-11|[day28 🌕](https://velog.io/@newbiekim/day28-tros04z3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day2🌱](https://yummy0102.tistory.com/394)||
-|2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|||[Day3🌱](https://yummy0102.tistory.com/396)|[Twosky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
-|2022-07-13||||||
+|2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day3🌱](https://yummy0102.tistory.com/396)|[Twosky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
+|2022-07-13||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-14||||||
 
 <!--
@@ -124,7 +124,7 @@
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||||
 |객체지향 vs 절차지향||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||||
 |checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||||
-|Database Engine||||||
+|Database Engine|||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)||||
 |스프링 ||||||
 |sdk와 api||||||
 
