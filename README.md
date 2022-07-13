@@ -46,7 +46,7 @@
 <br>
 
 |일자|손장미|황인준|이우주|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |2022-06-14|[day1 🌕](https://velog.io/@newbiekim/day1-00l6xhnd)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-15|[day2 🌕](https://velog.io/@newbiekim/day2-ib73kup2)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-16|[day3 🌕](https://velog.io/@newbiekim/day3-q36l7vzk)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
@@ -71,7 +71,7 @@
 7월
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-07-01|[day18 🌕](https://velog.io/@newbiekim/day18-bdehwfop)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-02|[day19 🌕](https://velog.io/@newbiekim/day19-ianwqdip)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-03|[day20 🌕](https://velog.io/@newbiekim/day20-tuhdor46)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
@@ -97,7 +97,7 @@
 ### 😍 오늘의 토픽 (진행중 : 🔴 / 완료 : 🔵)
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
 |접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
@@ -139,7 +139,7 @@
 
 ### 😍 주간 회고록
 |일자|손장미|황인준|이우주|염지원|이하늘|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-06-14 ~ 2022-06-19|[1주차](https://velog.io/@newbiekim/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|||||
 |2022-06-20 ~ 2022-06-26|[2주차](https://velog.io/@newbiekim/2주차-회고록)|[2주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-06-4주차.md)||||
 |2022-06-27 ~ 2022-07-03|[3주차](https://velog.io/@newbiekim/3주차-회고록)|[3주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-1주차.md)||||
@@ -151,7 +151,7 @@
 ### 💕 휴가권 (5일, 20일)
 
 |일자|이름|사유|남은 일수|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |2022-06-14|황인준|초기생성|5|
 |2022-06-14|손장미|초기생성|5|
 |2022-06-19|이우주|초기생성|20|
