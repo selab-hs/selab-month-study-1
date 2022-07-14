@@ -1,18 +1,19 @@
 # selab-month-study
-- 3개월팀  기간 2022년 6월 14일 ~ 2022년 9월 14일
-- 6개월팀  기간 2022년 6월 19일 ~ 2023년 2월 19일
+
+- 3개월팀 기간 2022년 6월 14일 ~ 2022년 9월 14일
+- 6개월팀 기간 2022년 6월 19일 ~ 2023년 2월 19일
 
 ---
 
 ### 🙆 People
 
 <div align="center">
-  
+
 |     극락     |    소주마스터     |     알콜 킬러      | 
 | :-----------------------------------: | :-----------------: | :----------------: |
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/71416769?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/50690859?v=4" width="250"/> |
 |   [김동건](https://github.com/DongGeon0908) |   [손장미](https://github.com/sonrose) |   [황인준](https://github.com/InJun2)   |
-  |열심히 극락코딩!!|연봉 25억을 노리는 성장형 뉴비 개린이|한신대 16학번 최약체|
+|열심히 극락코딩!!|연봉 25억을 노리는 성장형 뉴비 개린이|한신대 16학번 최약체|
 
 <br>
 
@@ -20,8 +21,8 @@
 | :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
-  |간단 자기소개|👑퀸벨로퍼👑|반포 아크로리버파크 좀만 기다려|
-  
+|간단 자기소개|👑퀸벨로퍼👑|반포 아크로리버파크 좀만 기다려|
+
   </div>
   
 ---
@@ -34,7 +35,7 @@
 - 이슈에 궁금한 부분을 올려주세요~!
 - 취업 성공시, 남은 인원들을 위해 정보 공유해주기!!
 - 취업 성공시, 극락에게 소고기 20만원치 사주기 (술사주기 무조건임 이거 레알)
-- 3개월 이후 소고기 사주기 
+- 3개월 이후 소고기 사주기
 
 ---
 
@@ -64,7 +65,7 @@
 |2022-06-28|[day15 🌕](https://velog.io/@newbiekim/day15-yhlmgnka)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-29|[day16 🌕](https://velog.io/@newbiekim/day16-bb20q1h5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
 |2022-06-30|[day17 🌕](https://velog.io/@newbiekim/day17-iocakn4x)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/06)||
-  
+
 </div>
 </details>
 
@@ -133,8 +134,6 @@
 |스프링 컨테이너||||||
 |Jpa 더티체킹||||||
 
-
-
 <!--
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
@@ -143,6 +142,7 @@
 ---
 
 ### 😍 주간 회고록
+
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-06-14 ~ 2022-06-19|[1주차](https://velog.io/@newbiekim/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|||||
