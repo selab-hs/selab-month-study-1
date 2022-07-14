@@ -130,6 +130,8 @@
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |스프링 ||||||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
+|스프링 컨테이너||||||
+|Jpa 더티체킹||||||
 
 
 
