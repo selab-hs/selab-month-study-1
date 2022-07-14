@@ -85,7 +85,7 @@
 |2022-07-11|[day28 🌕](https://velog.io/@newbiekim/day28-tros04z3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day2🌱](https://yummy0102.tistory.com/394)||
 |2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day3🌱](https://yummy0102.tistory.com/396)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |2022-07-13|[day30 🌕](https://velog.io/@newbiekim/day30-pmsh5ty5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day4🌱](https://yummy0102.tistory.com/399)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/TCP%2C%20UDP.md)|
-|2022-07-14||||||
+|2022-07-14||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-15||||||
 |2022-07-16||||||
 |2022-07-17||||||
@@ -129,7 +129,7 @@
 |checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||||
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |스프링 ||||||
-|sdk와 api||||||
+|sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 
 
 
