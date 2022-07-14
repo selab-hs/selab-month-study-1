@@ -86,7 +86,7 @@
 |2022-07-11|[day28 🌕](https://velog.io/@newbiekim/day28-tros04z3)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day2🌱](https://yummy0102.tistory.com/394)||
 |2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day3🌱](https://yummy0102.tistory.com/396)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |2022-07-13|[day30 🌕](https://velog.io/@newbiekim/day30-pmsh5ty5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day4🌱](https://yummy0102.tistory.com/399)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/TCP%2C%20UDP.md)|
-|2022-07-14|[day31 🌕](https://velog.io/@newbiekim/day31-7g1k3o42)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-14|[day31 🌕](https://velog.io/@newbiekim/day31-7g1k3o42)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day5🌱](https://yummy0102.tistory.com/402)||
 |2022-07-15||||||
 |2022-07-16||||||
 |2022-07-17||||||
@@ -110,7 +110,7 @@
 |bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||||
 |GIT ||||||
 |DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
-|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||||
+|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔴](https://yummy0102.tistory.com/401)||
 |교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||||
 |세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||||
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)||
