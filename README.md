@@ -87,7 +87,7 @@
 |2022-07-12|[day29 🌕](https://velog.io/@newbiekim/day29-ub6k10s9)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day3🌱](https://yummy0102.tistory.com/396)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |2022-07-13|[day30 🌕](https://velog.io/@newbiekim/day30-pmsh5ty5)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day4🌱](https://yummy0102.tistory.com/399)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/TCP%2C%20UDP.md)|
 |2022-07-14|[day31 🌕](https://velog.io/@newbiekim/day31-7g1k3o42)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day5🌱](https://yummy0102.tistory.com/402)||
-|2022-07-15||||||
+|2022-07-15|[day32 🌕](https://velog.io/@newbiekim/day32-bl99op7h)|||||
 |2022-07-16||||||
 |2022-07-17||||||
 
