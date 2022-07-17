@@ -156,7 +156,7 @@
 |2022-06-20 ~ 2022-06-26|[2주차](https://velog.io/@newbiekim/2주차-회고록)|[2주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-06-4주차.md)||||
 |2022-06-27 ~ 2022-07-03|[3주차](https://velog.io/@newbiekim/3주차-회고록)|[3주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-1주차.md)||||
 |2022-07-04 ~ 2022-07-10|[4주차](https://velog.io/@newbiekim/4주차-회고록)|[4주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-2주차.md)||||
-|2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|||||
+|2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|||[1주차](https://yummy0102.tistory.com/411)||
 |2022-07-18 ~ 2022-07-24||||||
 |2022-07-25 ~ 2022-07-31||||||
 
