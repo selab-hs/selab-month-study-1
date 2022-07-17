@@ -134,6 +134,8 @@
 |스프링 컨테이너||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
 |Jpa 더티체킹||||||
 |Jpa 엔티티매니저||||||
+|spring servlet||||||
+
 
 <!--
 |테스트1|테스트2|테스트3|
