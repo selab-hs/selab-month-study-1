@@ -89,7 +89,11 @@
 |2022-07-14|[day31 🌕](https://velog.io/@newbiekim/day31-7g1k3o42)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day5🌱](https://yummy0102.tistory.com/402)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/IP%2C%20CIDR.md)|
 |2022-07-15|[day32 🌕](https://velog.io/@newbiekim/day32-bl99op7h)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day6🌱](https://yummy0102.tistory.com/405)|[Sky/TIL](https://github.com/twoosky/spring-study)|
 |2022-07-16|[day33 🌕](https://velog.io/@newbiekim/day33-en9hol85)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day7🌱](https://yummy0102.tistory.com/408)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
-|2022-07-17||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-18||||||
+|2022-07-19||||||
+|2022-07-20||||||
+|2022-07-21||||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -152,7 +156,9 @@
 |2022-06-20 ~ 2022-06-26|[2주차](https://velog.io/@newbiekim/2주차-회고록)|[2주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-06-4주차.md)||||
 |2022-06-27 ~ 2022-07-03|[3주차](https://velog.io/@newbiekim/3주차-회고록)|[3주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-1주차.md)||||
 |2022-07-04 ~ 2022-07-10|[4주차](https://velog.io/@newbiekim/4주차-회고록)|[4주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-2주차.md)||||
-|||||||
+|2022-07-11 ~ 2022-07-17||||||
+|2022-07-18 ~ 2022-07-24||||||
+|2022-07-25 ~ 2022-07-31||||||
 
 ---
 
