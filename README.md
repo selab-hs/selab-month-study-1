@@ -136,8 +136,8 @@
 |스프링 ||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |스프링 컨테이너||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
-|Jpa 더티체킹|🔴|||||
-|Jpa 엔티티매니저|🔴|||||
+|Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|||||
+|Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|||||
 |spring servlet||||||
 |spring vs EJB||||||
 
