@@ -89,8 +89,8 @@
 |2022-07-14|[day31 🌕](https://velog.io/@newbiekim/day31-7g1k3o42)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day5🌱](https://yummy0102.tistory.com/402)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Network/IP%2C%20CIDR.md)|
 |2022-07-15|[day32 🌕](https://velog.io/@newbiekim/day32-bl99op7h)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day6🌱](https://yummy0102.tistory.com/405)|[Sky/TIL](https://github.com/twoosky/spring-study)|
 |2022-07-16|[day33 🌕](https://velog.io/@newbiekim/day33-en9hol85)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day7🌱](https://yummy0102.tistory.com/408)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
-|2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day8🌱](https://yummy0102.tistory.com/410)||
-|2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9🌱](https://yummy0102.tistory.com/413)||
+|2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day8🌱](https://yummy0102.tistory.com/410)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
+|2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9🌱](https://yummy0102.tistory.com/413)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-19||||||
 |2022-07-20||||||
 |2022-07-21||||||
@@ -114,7 +114,7 @@
 |bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||||
 |GIT ||||||
 |DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
-|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)||
+|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||||
 |세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||||
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
@@ -126,7 +126,7 @@
 |Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
 |Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
 |Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
-|DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)||
+|DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔴](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔴](https://yummy0102.tistory.com/412)||
