@@ -21,7 +21,7 @@
 | :-----------------------------------: | :-----------------: | :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
-|간단 자기소개|👑퀸벨로퍼👑|반포 아크로리버파크 좀만 기다려|
+|간단 자기소개|👑퀸벨로퍼👑|기초 탄탄이가 되어보자|
 
   </div>
   
@@ -91,7 +91,7 @@
 |2022-07-16|[day33 🌕](https://velog.io/@newbiekim/day33-en9hol85)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day7🌱](https://yummy0102.tistory.com/408)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day8🌱](https://yummy0102.tistory.com/410)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9🌱](https://yummy0102.tistory.com/413)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
-|2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md|
+|2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-20||||||
 |2022-07-21||||||
 
