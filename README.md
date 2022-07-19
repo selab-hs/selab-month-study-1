@@ -91,7 +91,7 @@
 |2022-07-16|[day33 🌕](https://velog.io/@newbiekim/day33-en9hol85)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day7🌱](https://yummy0102.tistory.com/408)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day8🌱](https://yummy0102.tistory.com/410)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9🌱](https://yummy0102.tistory.com/413)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
-|2022-07-19||||||
+|2022-07-19||[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-20||||||
 |2022-07-21||||||
 
@@ -136,8 +136,8 @@
 |스프링 ||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |스프링 컨테이너||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
-|Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|||||
-|Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|||||
+|Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
+|Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |spring servlet||||||
 |spring vs EJB||||||
 
