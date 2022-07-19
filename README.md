@@ -91,7 +91,7 @@
 |2022-07-16|[day33 🌕](https://velog.io/@newbiekim/day33-en9hol85)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day7🌱](https://yummy0102.tistory.com/408)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |2022-07-17|[day34 🌕](https://velog.io/@newbiekim/day34-aw0emlw8)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day8🌱](https://yummy0102.tistory.com/410)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9🌱](https://yummy0102.tistory.com/413)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
-|2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[InJun2/TIL](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md|
 |2022-07-20||||||
 |2022-07-21||||||
 
@@ -126,7 +126,7 @@
 |Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
 |Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
 |Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
-|DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔴](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
+|DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔴](https://yummy0102.tistory.com/412)||
