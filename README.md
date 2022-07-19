@@ -138,7 +138,7 @@
 |스프링 컨테이너||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
-|spring servlet||||||
+|spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Servlet.md)||||
 |spring vs EJB||||||
 |Redis||||||
 
