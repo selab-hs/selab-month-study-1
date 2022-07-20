@@ -141,7 +141,7 @@
 |spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Servlet.md)||||
 |spring vs EJB||||||
 |Redis||||||
-
+|Spring MVC||||
 
 <!--
 |테스트1|테스트2|테스트3|
