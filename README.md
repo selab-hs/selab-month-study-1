@@ -93,7 +93,7 @@
 |2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[TIL35](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9 🌱](https://yummy0102.tistory.com/413)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[TIL36](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day10 🌱](https://yummy0102.tistory.com/417)|[Sky/TIL](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-20|[day37 🌕](https://velog.io/@newbiekim/day37-s9yj1fxk)|[TIL37](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day11 🌱](https://yummy0102.tistory.com/420)||
-|2022-07-21||||||
+|2022-07-21||||[Day12 🌱](https://yummy0102.tistory.com/421)||
 |2022-07-22||||||
 |2022-07-23||||||
 |2022-07-24||||||
