@@ -93,7 +93,7 @@
 |2022-07-18|[day35 🌕](https://velog.io/@newbiekim/day35-35lqnhrv)|[TIL35](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day9 🌱](https://yummy0102.tistory.com/413)|[TIL7](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-19|[day36 🌕](https://velog.io/@newbiekim/day36-7arbtvkm)|[TIL36](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day10 🌱](https://yummy0102.tistory.com/417)|[TIL8](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |2022-07-20|[day37 🌕](https://velog.io/@newbiekim/day37-s9yj1fxk)|[TIL37](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day11 🌱](https://yummy0102.tistory.com/420)|[TIL9](https://github.com/twoosky/selab-string-calculator)|
-|2022-07-21|[day38 🌕](https://velog.io/@newbiekim/day38-t3h6nugu)|[TIL38](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day12 🌱](https://yummy0102.tistory.com/421)||
+|2022-07-21|[day38 🌕](https://velog.io/@newbiekim/day38-t3h6nugu)|[TIL38](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day12 🌱](https://yummy0102.tistory.com/421)|[TIL10](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
 |2022-07-22||||||
 |2022-07-23||||||
 |2022-07-24||||||
@@ -119,7 +119,7 @@
 |GIT ||||||
 |DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
 |멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
-|교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||[🔵](https://yummy0102.tistory.com/419﻿)||
+|교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||[🔵](https://yummy0102.tistory.com/419﻿)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
 |세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||||
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||||
