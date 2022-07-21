@@ -146,6 +146,7 @@
 |spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20vs%20EJB.md)||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |Spring MVC|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
+|트랜잭션||||||
 
 <!--
 |테스트1|테스트2|테스트3|
