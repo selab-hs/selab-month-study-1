@@ -137,9 +137,9 @@
 |객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||||
 |checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||||
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
-|스프링 ||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
+|스프링|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
-|스프링 컨테이너||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
+|스프링 컨테이너|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Servlet.md)||||
