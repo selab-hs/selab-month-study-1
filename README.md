@@ -134,7 +134,7 @@
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔵](https://yummy0102.tistory.com/412)||
-|객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||||
+|객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
 |checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||||
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |스프링|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
