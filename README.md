@@ -147,6 +147,13 @@
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |Spring MVC|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
 |트랜잭션||||||
+|라우터||||||
+|RDB vs Nosql||||||
+|RAID||||||
+|본인이 생각하는 스프링의 장점||||||
+|Jpa 1차 캐시||||||
+|개발자가 되고 싶은 이유||||||
+|시간 복잡도, 공간 복잡도||||||
 
 <!--
 |테스트1|테스트2|테스트3|
