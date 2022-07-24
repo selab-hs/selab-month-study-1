@@ -149,7 +149,7 @@
 |spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20vs%20EJB.md)||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
-|트랜잭션||||||
+|트랜잭션(Database, Spring)||||||
 |라우터||||||
 |RDB vs Nosql||||||
 |RAID||||||
