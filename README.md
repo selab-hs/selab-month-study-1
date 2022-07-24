@@ -96,7 +96,7 @@
 |2022-07-21|[day38 🌕](https://velog.io/@newbiekim/day38-t3h6nugu)|[TIL38](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day12 🌱](https://yummy0102.tistory.com/421)|[TIL10](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
 |2022-07-22|[day39 🌕](https://velog.io/@newbiekim/day39-78u0pdkb)|[TIL39](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day13 🌱](https://yummy0102.tistory.com/423)|[TIL11](https://github.com/twoosky/TIL/blob/main/CS/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
 |2022-07-23|[day40 🌕](https://velog.io/@newbiekim/day40-uyrjb66q)|[TIL40](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day14 🌱](https://yummy0102.tistory.com/426)||
-|2022-07-24||[TIL41](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day15 🌱](https://yummy0102.tistory.com/428)||
+|2022-07-24|[day41 🌕](https://velog.io/@newbiekim/day41-q0zdjp2p)|[TIL41](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day15 🌱](https://yummy0102.tistory.com/428)||
 |2022-07-25||||||
 |2022-07-26||||||
 |2022-07-27||||||
