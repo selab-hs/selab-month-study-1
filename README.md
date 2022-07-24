@@ -111,53 +111,92 @@
 
 ### 😍 오늘의 토픽 (진행중 : 🔴 / 완료 : 🔵)
 
+### Network
+
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵](https://field-okra-184.notion.site/OSI-7-5e49f7c100cd4ac99cac739f3b6fece3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
-|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
-|접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
-|Java Collection|[🔵](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
-|알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
-|bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||||
-|GIT ||||||
-|DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
-|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
-|교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||[🔵](https://yummy0102.tistory.com/419﻿)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
-|세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||[🔴](https://yummy0102.tistory.com/427)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
-|REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
-|동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||||
 |OSI L4|[🔵](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||||
-|concurrency vs parallelism|[🔵](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
+|DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
+|REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
-|Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
-|Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
-|Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
+|라우터||||||
+|HTTP vs HTTPS||||||
+
+### Database
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔴](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
-|스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
-|캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
-|java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔵](https://yummy0102.tistory.com/412)||
-|객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
-|checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||[🔴](https://yummy0102.tistory.com/422)||
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
-|스프링|[🔵](https://unequaled-peach-7e5.notion.site/Spring-3890e16b35954548b329b880355527c2)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
-|sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
+|Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
+|RDB vs Nosql||||||
+|트랜잭션||||||
+|DDL, DML, DCL||||||
+
+### Operate System
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
+|교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||[🔵](https://yummy0102.tistory.com/419﻿)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
+|세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||||
+|동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||||
+|concurrency vs parallelism|[🔵](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
+|캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
+|RAID||||||
+|스케줄링 기법||||||
+
+### Spring
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
+|bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||||
+|스프링|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
+|스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
 |스프링 컨테이너|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
-|Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
-|Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Servlet.md)||||
 |spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20vs%20EJB.md)||||
-|Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
-|Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
-|트랜잭션(Database, Spring)||||||
-|라우터||||||
-|RDB vs Nosql||||||
-|RAID||||||
+|Spring MVC|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
 |본인이 생각하는 스프링의 장점||||||
+|트랜잭션||||||
+|filter, intercepter, aop||||||
+
+### Java
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
+|Java Collection|[🔵](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
+|Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
+|java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔵](https://yummy0102.tistory.com/412)||
+|checked exception vs unchecked exception||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||[🔴](https://yummy0102.tistory.com/422)||
+|Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
+|Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
-|개발자가 되고 싶은 이유||||||
+|오버라이딩 vs 오버로딩||||||
+
+### Algorithm
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
 |시간 복잡도, 공간 복잡도||||||
-|스케줄링||||||
+|이진 탐색||||||
+
+### Etc
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|GIT ||||||
+|Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
+|Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
+|객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
+|sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
+|개발자가 되고 싶은 이유||||||
+|좋은 개발자란 무엇일까요||||||
 
 <!--
 |테스트1|테스트2|테스트3|
