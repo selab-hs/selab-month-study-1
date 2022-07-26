@@ -99,7 +99,7 @@
 |2022-07-24|[day41 🌕](https://velog.io/@newbiekim/day41-q0zdjp2p)|[TIL41](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day15 🌱](https://yummy0102.tistory.com/428)||
 |2022-07-25|[day42 🌕](https://velog.io/@newbiekim/day42-qhl1ru1s)|[TIL42](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day16 🌱](https://yummy0102.tistory.com/430)||
 |2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day17 🌱](https://yummy0102.tistory.com/432)||
-|2022-07-27||||||
+|2022-07-27||[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-28||||||
 |2022-07-29||||||
 |2022-07-30||||||
@@ -124,7 +124,7 @@
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
-|라우터||||||
+|라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS||||||
 
 ### Database
@@ -135,7 +135,7 @@
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql||||||
-|트랜잭션||||||
+|트랜잭션||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)||||
 |DDL, DML, DCL||||||
 
 ### Operate System
