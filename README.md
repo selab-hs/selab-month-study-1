@@ -95,11 +95,11 @@
 |2022-07-20|[day37 🌕](https://velog.io/@newbiekim/day37-s9yj1fxk)|[TIL37](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day11 🌱](https://yummy0102.tistory.com/420)|[TIL9](https://github.com/twoosky/selab-string-calculator)|
 |2022-07-21|[day38 🌕](https://velog.io/@newbiekim/day38-t3h6nugu)|[TIL38](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day12 🌱](https://yummy0102.tistory.com/421)|[TIL10](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
 |2022-07-22|[day39 🌕](https://velog.io/@newbiekim/day39-78u0pdkb)|[TIL39](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day13 🌱](https://yummy0102.tistory.com/423)|[TIL11](https://github.com/twoosky/TIL/blob/main/CS/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
-|2022-07-23|[day40 🌕](https://velog.io/@newbiekim/day40-uyrjb66q)|[TIL40](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day14 🌱](https://yummy0102.tistory.com/426)||
-|2022-07-24|[day41 🌕](https://velog.io/@newbiekim/day41-q0zdjp2p)|[TIL41](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day15 🌱](https://yummy0102.tistory.com/428)||
-|2022-07-25|[day42 🌕](https://velog.io/@newbiekim/day42-qhl1ru1s)|[TIL42](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day16 🌱](https://yummy0102.tistory.com/430)||
-|2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day17 🌱](https://yummy0102.tistory.com/432)||
-|2022-07-27||[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-23|[day40 🌕](https://velog.io/@newbiekim/day40-uyrjb66q)|[TIL40](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day14 🌱](https://yummy0102.tistory.com/426)|[TIL12](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
+|2022-07-24|[day41 🌕](https://velog.io/@newbiekim/day41-q0zdjp2p)|[TIL41](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day15 🌱](https://yummy0102.tistory.com/428)|[TIL13](https://twosky.tistory.com/4?category=1037176)|
+|2022-07-25|[day42 🌕](https://velog.io/@newbiekim/day42-qhl1ru1s)|[TIL42](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day16 🌱](https://yummy0102.tistory.com/430)|[TIL14](https://twosky.tistory.com/5?category=1037176)|
+|2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL15](https://twosky.tistory.com/6?category=1037176)|
+|2022-07-27||||||
 |2022-07-28||||||
 |2022-07-29||||||
 |2022-07-30||||||
@@ -124,7 +124,7 @@
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
-|라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
+|라우터||||||
 |HTTP vs HTTPS||||||
 
 ### Database
@@ -135,7 +135,7 @@
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql||||||
-|트랜잭션||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)||||
+|트랜잭션|||||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
 
 ### Operate System
@@ -217,7 +217,7 @@
 |2022-06-27 ~ 2022-07-03|[3주차](https://velog.io/@newbiekim/3주차-회고록)|[3주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-1주차.md)||||
 |2022-07-04 ~ 2022-07-10|[4주차](https://velog.io/@newbiekim/4주차-회고록)|[4주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-2주차.md)||||
 |2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|[5주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-3주차.md)||[1주차](https://yummy0102.tistory.com/411)|[1주차](https://twosky.tistory.com/2)|
-|2022-07-18 ~ 2022-07-24|[6주차](https://velog.io/@newbiekim/6주차-회고록)|[6주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-4주차.md)||[2주차](https://yummy0102.tistory.com/429)||
+|2022-07-18 ~ 2022-07-24|[6주차](https://velog.io/@newbiekim/6주차-회고록)|[6주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-4주차.md)||[2주차](https://yummy0102.tistory.com/429)|[2주차](https://twosky.tistory.com/3)|
 |2022-07-25 ~ 2022-07-31||||||
 
 ---
