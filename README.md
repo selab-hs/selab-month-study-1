@@ -126,6 +126,7 @@
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
 |라우터||||||
 |HTTP vs HTTPS||||||
+|Cookie vs Session||||||
 
 ### Database
 
@@ -150,6 +151,7 @@
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |RAID||||||
 |스케줄링 기법||||||
+|커널||||||
 
 ### Spring
 
@@ -166,6 +168,7 @@
 |본인이 생각하는 스프링의 장점||||||
 |트랜잭션||||||
 |filter, intercepter, aop||||||
+|spring vs spring boot||||||
 
 ### Java
 
@@ -180,6 +183,7 @@
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
 |오버라이딩 vs 오버로딩||||||
+|Java compile 과정||||||
 
 ### Algorithm
 
@@ -188,6 +192,7 @@
 |알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
 |시간 복잡도, 공간 복잡도|🔴|||||
 |이진 탐색||||||
+|tree||||||
 
 ### Etc
 
@@ -200,6 +205,7 @@
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |개발자가 되고 싶은 이유||||||
 |좋은 개발자란 무엇일까요||||||
+|비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 
 <!--
 |테스트1|테스트2|테스트3|
