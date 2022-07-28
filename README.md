@@ -100,7 +100,7 @@
 |2022-07-25|[day42 🌕](https://velog.io/@newbiekim/day42-qhl1ru1s)|[TIL42](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day16 🌱](https://yummy0102.tistory.com/430)|[TIL14](https://twosky.tistory.com/5?category=1037176)|
 |2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL15](https://twosky.tistory.com/6?category=1037176)|
 |2022-07-27|[day44 🌕](https://velog.io/@newbiekim/day44-tcgojs6l)|[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL16](https://twosky.tistory.com/7?category=1037176)|
-|2022-07-28||[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-29||||||
 |2022-07-30||||||
 |2022-07-31||||||
