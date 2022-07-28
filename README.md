@@ -100,7 +100,7 @@
 |2022-07-25|[day42 🌕](https://velog.io/@newbiekim/day42-qhl1ru1s)|[TIL42](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||[Day16 🌱](https://yummy0102.tistory.com/430)|[TIL14](https://twosky.tistory.com/5?category=1037176)|
 |2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL15](https://twosky.tistory.com/6?category=1037176)|
 |2022-07-27|[day44 🌕](https://velog.io/@newbiekim/day44-tcgojs6l)|[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL16](https://twosky.tistory.com/7?category=1037176)|
-|2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
 |2022-07-29||||||
 |2022-07-30||||||
 |2022-07-31||||||
@@ -146,7 +146,7 @@
 |멀티프로세스와 멀티스레드 차이|[🔵](https://unequaled-peach-7e5.notion.site/91e37e52ca114a94bf4c23f2c67d7ba7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Process-Thread.md)||[🔵](https://yummy0102.tistory.com/401)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |교착상태|[🔵](https://unequaled-peach-7e5.notion.site/Dead-Lock-cc21ac6f745541959559fcd6591c9325)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/DeadLock.md)||[🔵](https://yummy0102.tistory.com/419)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/Deadlock.md)|
 |세마포어와 뮤텍스|[🔵](https://unequaled-peach-7e5.notion.site/2aaab9f2f5ca462294182258d3d3b3ab)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Semaphore-Mutex.md)||[🔴](https://yummy0102.tistory.com/427)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
-|동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)||||
+|동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%EB%8F%99%EA%B8%B0%20vs%20%EB%B9%84%EB%8F%99%EA%B8%B0%2C%20Blocking%20vs%20Non-Blocking.md)|
 |concurrency vs parallelism|[🔵](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |RAID||||||
