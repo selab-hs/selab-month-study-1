@@ -101,7 +101,7 @@
 |2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL15](https://twosky.tistory.com/6?category=1037176)|
 |2022-07-27|[day44 🌕](https://velog.io/@newbiekim/day44-tcgojs6l)|[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL16](https://twosky.tistory.com/7?category=1037176)|
 |2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
-|2022-07-29||[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
+|2022-07-29|[day46 🌕](https://velog.io/@newbiekim/day46-8dj940r9)|[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-30||||||
 |2022-07-31||||||
 
@@ -190,7 +190,7 @@
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
-|시간 복잡도, 공간 복잡도|🔴|||||
+|시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||||
 |이진 탐색||||||
 |tree||||||
 
