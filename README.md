@@ -101,7 +101,7 @@
 |2022-07-26|[day43 🌕](https://velog.io/@newbiekim/day43-dqdoi3sw)|[TIL43](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL15](https://twosky.tistory.com/6?category=1037176)|
 |2022-07-27|[day44 🌕](https://velog.io/@newbiekim/day44-tcgojs6l)|[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL16](https://twosky.tistory.com/7?category=1037176)|
 |2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
-|2022-07-29||||||
+|2022-07-29||[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-30||||||
 |2022-07-31||||||
 
