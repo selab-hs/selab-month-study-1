@@ -102,7 +102,7 @@
 |2022-07-27|[day44 🌕](https://velog.io/@newbiekim/day44-tcgojs6l)|[TIL44](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL16](https://twosky.tistory.com/7?category=1037176)|
 |2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
 |2022-07-29|[day46 🌕](https://velog.io/@newbiekim/day46-8dj940r9)|[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
-|2022-07-30||||||
+|2022-07-30||[휴가](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)||||
 |2022-07-31||||||
 
 <!--
@@ -238,4 +238,5 @@
 |2022-06-18|황인준|지인 약속|4|
 |2022-07-10|염지원|초기생성|5|
 |2022-07-11|이하늘|초기생성|5|
+|2022-07-30|황인준|지인 약속|3|
 
