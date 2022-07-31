@@ -103,7 +103,7 @@
 |2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
 |2022-07-29|[day46 🌕](https://velog.io/@newbiekim/day46-8dj940r9)|[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL18](https://twosky.tistory.com/9)|
 |2022-07-30|[day47 🌕](https://velog.io/@newbiekim/day47-5kp7imga)|[휴가](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL19](https://twosky.tistory.com/10)|
-|2022-07-31|||||[TIL20](https://twosky.tistory.com/11)|
+|2022-07-31|[day48 🌕](https://velog.io/@newbiekim/day48-6ixele7t)||||[TIL20](https://twosky.tistory.com/11)|
 
 <!--
 |테스트1|테스트2|테스트3|
