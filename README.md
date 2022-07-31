@@ -69,7 +69,10 @@
 </div>
 </details>
 
-7월
+<details>
+<summary>7월</summary>
+<div markdown="1">
+<br>
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -104,6 +107,19 @@
 |2022-07-29|[day46 🌕](https://velog.io/@newbiekim/day46-8dj940r9)|[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL18](https://twosky.tistory.com/9)|
 |2022-07-30|[day47 🌕](https://velog.io/@newbiekim/day47-5kp7imga)|[휴가](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL19](https://twosky.tistory.com/10)|
 |2022-07-31|[day48 🌕](https://velog.io/@newbiekim/day48-6ixele7t)||||[TIL20](https://twosky.tistory.com/11)|
+
+</div>
+</details>
+
+8
+
+|일자|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022-08-01||||||
+|2022-08-02||||||
+|2022-08-03||||||
+|2022-08-04||||||
+|2022-08-05||||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -224,7 +240,7 @@
 |2022-07-04 ~ 2022-07-10|[4주차](https://velog.io/@newbiekim/4주차-회고록)|[4주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-2주차.md)||||
 |2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|[5주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-3주차.md)||[1주차](https://yummy0102.tistory.com/411)|[1주차](https://twosky.tistory.com/2)|
 |2022-07-18 ~ 2022-07-24|[6주차](https://velog.io/@newbiekim/6주차-회고록)|[6주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-4주차.md)||[2주차](https://yummy0102.tistory.com/429)|[2주차](https://twosky.tistory.com/3)|
-|2022-07-25 ~ 2022-07-31||||||
+|2022-07-25 ~ 2022-07-31|[7주차](https://velog.io/@newbiekim/7주차-회고록)|||||
 
 ---
 
