@@ -106,7 +106,7 @@
 |2022-07-28|[day45 🌕](https://velog.io/@newbiekim/day45-3mecpn09)|[TIL45](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL17](https://twosky.tistory.com/8?category=1037176)|
 |2022-07-29|[day46 🌕](https://velog.io/@newbiekim/day46-8dj940r9)|[TIL46](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL18](https://twosky.tistory.com/9)|
 |2022-07-30|[day47 🌕](https://velog.io/@newbiekim/day47-5kp7imga)|[휴가](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL19](https://twosky.tistory.com/10)|
-|2022-07-31|[day48 🌕](https://velog.io/@newbiekim/day48-6ixele7t)||||[TIL20](https://twosky.tistory.com/11)|
+|2022-07-31|[day48 🌕](https://velog.io/@newbiekim/day48-6ixele7t)|[TIL48](https://github.com/InJun2/TIL/tree/main/todo-list/2022/07)|||[TIL20](https://twosky.tistory.com/11)|
 
 </div>
 </details>
@@ -115,7 +115,7 @@
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2022-08-01||||||
+|2022-08-01||[TIL49](https://github.com/InJun2/TIL/tree/main/todo-list/2022/08)||||
 |2022-08-02||||||
 |2022-08-03||||||
 |2022-08-04||||||
@@ -140,7 +140,7 @@
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
-|라우터||||||
+|라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS|🔴|||||
 |Cookie vs Session||||||
 
@@ -152,7 +152,7 @@
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql||||||
-|트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)||||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
+|트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
 
 ### Operate System
@@ -165,7 +165,7 @@
 |동기 vs 비동기|[🔵](https://unequaled-peach-7e5.notion.site/d394b14e061c49c19b6052464e3ef49d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Synchronous-Asynchronous.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/OS/%EB%8F%99%EA%B8%B0%20vs%20%EB%B9%84%EB%8F%99%EA%B8%B0%2C%20Blocking%20vs%20Non-Blocking.md)|
 |concurrency vs parallelism|[🔵](https://unequaled-peach-7e5.notion.site/Concurrency-VS-Parallelism-e692aada9ae94e0da62d668cbd406cff)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Concurrency-Parallelism.md)||||
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
-|RAID||||||
+|RAID||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Computer%20Architecture/RAID.md)||||
 |스케줄링 기법||||||
 |커널||||||
 
@@ -183,7 +183,7 @@
 |Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
 |본인이 생각하는 스프링의 장점||||||
 |트랜잭션|🔴|||||
-|filter, intercepter, aop||||||
+|filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot||||||
 
 ### Java
