@@ -116,7 +116,7 @@
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-08-01|[day49 🌕](https://velog.io/@newbiekim/day49-jb1tyf4m)|[TIL49](https://github.com/InJun2/TIL/tree/main/todo-list/2022/08)||[Day18 🌱](https://yummy0102.tistory.com/435)|[TIL21](https://twosky.tistory.com/11)|
-|2022-08-02||||||
+|2022-08-02||[TIL50](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||||
 |2022-08-03||||||
 |2022-08-04||||||
 |2022-08-05||||||
