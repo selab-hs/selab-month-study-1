@@ -187,7 +187,7 @@
 |본인이 생각하는 스프링의 장점||||||
 |트랜잭션|🔴|||||
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
-|spring vs spring boot||||||
+|spring vs spring boot||||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet||||||
 
 ### Java
