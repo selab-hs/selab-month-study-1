@@ -143,6 +143,7 @@
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS|🔴|||||
 |Cookie vs Session||||||
+|http 1, 2, 3||||||
 
 ### Database
 
@@ -154,6 +155,7 @@
 |RDB vs Nosql||||||
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
+|sql injection||||||
 
 ### Operate System
 
@@ -168,6 +170,7 @@
 |RAID||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Computer%20Architecture/RAID.md)||||
 |스케줄링 기법||||||
 |커널||||||
+|Critical Section||||||
 
 ### Spring
 
@@ -185,6 +188,7 @@
 |트랜잭션|🔴|||||
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot||||||
+|Dispatcher Servlet||||||
 
 ### Java
 
@@ -200,6 +204,7 @@
 |Jpa 1차 캐시||||||
 |오버라이딩 vs 오버로딩||||||
 |Java compile 과정||||||
+|Java version별 차이점||||||
 
 ### Algorithm
 
@@ -209,6 +214,7 @@
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||||
 |이진 탐색||||||
 |tree||||||
+|동적 계획법 dp||||||
 
 ### Etc
 
@@ -222,6 +228,7 @@
 |개발자가 되고 싶은 이유||||||
 |좋은 개발자란 무엇일까요||||||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
+|다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
 
 <!--
 |테스트1|테스트2|테스트3|
