@@ -118,7 +118,7 @@
 |2022-08-01|[day49 🌕](https://velog.io/@newbiekim/day49-jb1tyf4m)|[TIL49](https://github.com/InJun2/TIL/tree/main/todo-list/2022/08)||[Day18 🌱](https://yummy0102.tistory.com/435)|[TIL21](https://twosky.tistory.com/13)|
 |2022-08-02|[day50 🌕](https://velog.io/@newbiekim/day50-z0q6hz5d)|[TIL50](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day19 🌱](https://yummy0102.tistory.com/436)|[TIL22](https://twosky.tistory.com/14?category=1037176)|
 |2022-08-03|[day51 🌕](https://velog.io/@newbiekim/day51-zkhhv77o)|[TIL51](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day20 🌱](https://yummy0102.tistory.com/439)|[TIL23](https://twosky.tistory.com/15?category=1037176)|
-|2022-08-04||||||
+|2022-08-04|||||[TIL24](https://twosky.tistory.com/16)|
 |2022-08-05||||||
 
 <!--
@@ -142,7 +142,7 @@
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS|🔴|||||
-|Cookie vs Session|🔴|||||
+|Cookie vs Session|🔴||||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
 |http 1, 2, 3||||||
 
 ### Database
@@ -152,7 +152,7 @@
 |DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
-|RDB vs Nosql|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔴](https://yummy0102.tistory.com/440)||
+|RDB vs Nosql|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔴](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
 |sql injection||||||
