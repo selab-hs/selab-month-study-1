@@ -142,7 +142,7 @@
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS|🔴|||||
-|Cookie vs Session||||||
+|Cookie vs Session|🔴|||||
 |http 1, 2, 3||||||
 
 ### Database
@@ -152,7 +152,7 @@
 |DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
-|RDB vs Nosql||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||||
+|RDB vs Nosql|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||||
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
 |sql injection||||||
@@ -187,7 +187,7 @@
 |본인이 생각하는 스프링의 장점||||||
 |트랜잭션|🔴|||||
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
-|spring vs spring boot||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
+|spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet||||||
 
 ### Java
