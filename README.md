@@ -152,7 +152,7 @@
 |DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
-|RDB vs Nosql|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔴](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
+|RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔴](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL||||||
 |sql injection||||||
