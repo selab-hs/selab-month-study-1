@@ -174,7 +174,7 @@
 |RAID||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Computer%20Architecture/RAID.md)||||
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
 |커널||||||
-|Critical Section||||||
+|Critical Section||||[🔴](https://yummy0102.tistory.com/444)||
 
 ### Spring
 
