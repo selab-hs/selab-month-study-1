@@ -121,7 +121,7 @@
 |2022-08-04|[day52 🌕](https://velog.io/@newbiekim/day52-c9virabl)|[TIL52](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day21 🌱](https://yummy0102.tistory.com/441)|[TIL24](https://twosky.tistory.com/16)|
 |2022-08-05|[day53 🌕](https://velog.io/@newbiekim/day53-6lq9gq7r)|[TIL53](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day22 🌱](https://yummy0102.tistory.com/443)|[TIL25](https://twosky.tistory.com/17)|
 |2022-08-06|[day54 🌕](https://velog.io/@newbiekim/day54-sf3ntbb9)|[TIL54](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day23 🌱](https://yummy0102.tistory.com/445)|[TIL26](https://twosky.tistory.com/18)|
-|2022-08-07|[day55 🌕](https://velog.io/@newbiekim/day55-ka0d25sz)|[TIL55](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day24 🌱](https://yummy0102.tistory.com/448)||
+|2022-08-07|[day55 🌕](https://velog.io/@newbiekim/day55-ka0d25sz)|[TIL55](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day24 🌱](https://yummy0102.tistory.com/448)|[TIL27](https://twosky.tistory.com/21)|
 |2022-08-08||||||
 |2022-08-09||||||
 
@@ -253,7 +253,7 @@
 |2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|[5주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-3주차.md)||[1주차](https://yummy0102.tistory.com/411)|[1주차](https://twosky.tistory.com/2)|
 |2022-07-18 ~ 2022-07-24|[6주차](https://velog.io/@newbiekim/6주차-회고록)|[6주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-4주차.md)||[2주차](https://yummy0102.tistory.com/429)|[2주차](https://twosky.tistory.com/3)|
 |2022-07-25 ~ 2022-07-31|[7주차](https://velog.io/@newbiekim/7주차-회고록)|[7주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-5주차.md)||[3주차](https://yummy0102.tistory.com/437)|[3주차](https://twosky.tistory.com/12?category=1035493)|
-|2022-08-01 ~ 2022-08-07||||||
+|2022-08-01 ~ 2022-08-07|||||[4주차](https://twosky.tistory.com/20?category=1035493)|
 |2022-08-08 ~ 2022-08-14||||||
 
 ---
