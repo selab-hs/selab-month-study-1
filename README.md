@@ -253,7 +253,7 @@
 |2022-07-11 ~ 2022-07-17|[5주차](https://velog.io/@newbiekim/5주차-회고록)|[5주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-3주차.md)||[1주차](https://yummy0102.tistory.com/411)|[1주차](https://twosky.tistory.com/2)|
 |2022-07-18 ~ 2022-07-24|[6주차](https://velog.io/@newbiekim/6주차-회고록)|[6주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-4주차.md)||[2주차](https://yummy0102.tistory.com/429)|[2주차](https://twosky.tistory.com/3)|
 |2022-07-25 ~ 2022-07-31|[7주차](https://velog.io/@newbiekim/7주차-회고록)|[7주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-5주차.md)||[3주차](https://yummy0102.tistory.com/437)|[3주차](https://twosky.tistory.com/12?category=1035493)|
-|2022-08-01 ~ 2022-08-07|||||[4주차](https://twosky.tistory.com/20?category=1035493)|
+|2022-08-01 ~ 2022-08-07|[8주차](https://velog.io/@newbiekim/8주차-회고록)||||[4주차](https://twosky.tistory.com/20?category=1035493)|
 |2022-08-08 ~ 2022-08-14||||||
 
 ---
