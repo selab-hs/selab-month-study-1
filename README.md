@@ -125,7 +125,7 @@
 |2022-08-08|[day56 🌕](https://velog.io/@newbiekim/day56-vuqtk8oj)|[TIL56](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day25 🌱](https://yummy0102.tistory.com/450)|[TIL28](https://twosky.tistory.com/22)|
 |2022-08-09|[day57 🌕](https://velog.io/@newbiekim/day57-o2b16hwn)|[TIL57](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08/08-09.md)||[Day26 🌱](https://yummy0102.tistory.com/451)|[TIL29](https://twosky.tistory.com/23)|
 |2022-08-10|[day58 🌕](https://velog.io/@newbiekim/day58-93cusplt)|[TIL58](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08/08-10.md)||[[Day27 🌱](https://yummy0102.tistory.com/452)|[TIL30](https://twosky.tistory.com/24)|
-|2022-08-11||||||
+|2022-08-11|||||[TIL31](https://twosky.tistory.com/25)|
 |2022-08-12||||||
 |2022-08-13||||||
 |2022-08-14||||||
@@ -164,7 +164,7 @@
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
-|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|||[🔵](https://yummy0102.tistory.com/453)||
+|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection||||||
 
 ### Operate System
