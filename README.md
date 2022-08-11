@@ -186,14 +186,14 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC%20DI%20AOP.md)||||
-|bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean%20vs%20Component.md)||||
+|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||||
+|bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean-Component.md)||||
 |스프링|[🔵](https://unequaled-peach-7e5.notion.site/Spring-3890e16b35954548b329b880355527c2)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
-|스프링 컨테이너|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Container.md)||||
-|spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20Servlet.md)||||
-|spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20vs%20EJB.md)||||
-|Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring%20MVC.md)||||
+|스프링 컨테이너|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Container.md)||||
+|spring servlet||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Servlet.md)||||
+|spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-EJB.md)||||
+|Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_MVC.md)||||
 |본인이 생각하는 스프링의 장점||||||
 |트랜잭션|🔴|||||
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
