@@ -191,7 +191,7 @@
 |스프링|[🔵](https://unequaled-peach-7e5.notion.site/Spring-3890e16b35954548b329b880355527c2)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
 |스프링 컨테이너|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Container.md)||||
-|spring servlet|[🔵](https://unequaled-peach-7e5.notion.site/Spring-Servlet-e0fc9a937b9c4603ac01133a31febcc5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Servlet.md)||||
+|spring servlet|[🔵](https://unequaled-peach-7e5.notion.site/Spring-Servlet-e0fc9a937b9c4603ac01133a31febcc5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Servlet.md)||[🔴](https://yummy0102.tistory.com/455)||
 |spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-EJB.md)||||
 |Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_MVC.md)||||
 |본인이 생각하는 스프링의 장점||||||
