@@ -159,6 +159,7 @@
 |HTTP vs HTTPS|🔴|||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
 |http 1, 2, 3||||||
+|cast (broadcast, unicast, multicast 등..)||||||
 
 ### Database
 
@@ -171,6 +172,7 @@
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection||||||
+|정규화||||||
 
 ### Operate System
 
@@ -204,6 +206,7 @@
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|||||
+|maven, gradle||||||
 
 ### Java
 
@@ -221,6 +224,7 @@
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
+|인터페이스와 추상클래스||||||
 
 ### Algorithm
 
@@ -231,6 +235,12 @@
 |이진 탐색||||||
 |tree||||||
 |동적 계획법 dp||||||
+
+### 디자인 패턴
+
+|주제|손장미|황인준|이우주|염지원|이하늘|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|싱글톤 패턴||||||
 
 ### Etc
 
@@ -245,6 +255,7 @@
 |좋은 개발자란 무엇일까요||||||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
+|java와 c언어의 차이||||||
 
 <!--
 |테스트1|테스트2|테스트3|
