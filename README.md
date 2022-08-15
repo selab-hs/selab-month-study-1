@@ -156,7 +156,7 @@
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
-|HTTP vs HTTPS|🔴|||||
+|HTTP vs HTTPS|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
 |http 1, 2, 3||||||
 |cast (broadcast, unicast, multicast 등..)||||||
@@ -170,7 +170,7 @@
 |Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
-|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
+|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection||||||
 |정규화||||||
 
@@ -186,8 +186,8 @@
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |RAID||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Computer%20Architecture/RAID.md)||||
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
-|커널|🔴|||||
-|Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|||[🔵](https://yummy0102.tistory.com/444)||
+|커널|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||||
+|Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
 
 ### Spring
 
