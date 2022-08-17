@@ -212,7 +212,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java)||||
+|접근제한자, 생성자, SOLID|[🔵](https://www.notion.so/SOLID-5cf5182f68ef40bca44ba14691d4fd32)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java)||[🔴](https://yummy0102.tistory.com/446)||
 |Java Collection|[🔵](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
 |Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔵](https://yummy0102.tistory.com/412)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/JVM.md)|
