@@ -130,8 +130,8 @@
 |2022-08-13|[day61 🌕](https://velog.io/@newbiekim/day61-enmtqysu)|[TIL61](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day30 🌱](https://yummy0102.tistory.com/457)|[TIL33](https://twosky.tistory.com/27)|
 |2022-08-14|[day62 🌕](https://velog.io/@newbiekim/day62-e97n6lm5)|[TIL62](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day31 🌱](https://yummy0102.tistory.com/458)|[TIL34](https://twosky.tistory.com/28?category=1037176)|
 |2022-08-15|[day63 🌕](https://velog.io/@newbiekim/day63-k25ouzgi)|[TIL63](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day32 🌱](https://yummy0102.tistory.com/461)|[TIL35](https://twosky.tistory.com/29?category=1037176)|
-|2022-08-16|[day64 🌕](https://velog.io/@newbiekim/day64-slaoe134)|[TIL64](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||||
-|2022-08-17||||||
+|2022-08-16|[day64 🌕](https://velog.io/@newbiekim/day64-slaoe134)|[TIL64](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day33 🌱](https://yummy0102.tistory.com/462)||
+|2022-08-17||||[Day34 🌱](https://yummy0102.tistory.com/463)||
 |2022-08-18||||||
 |2022-08-19||||||
 |2022-08-20||||||
