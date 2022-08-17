@@ -220,7 +220,7 @@
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
-|오버라이딩 vs 오버로딩||||||
+|오버라이딩 vs 오버로딩||||[🔵](https://yummy0102.tistory.com/465)||
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
