@@ -224,7 +224,7 @@
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
-|인터페이스와 추상클래스||||||
+|인터페이스와 추상클래스||||[🔴](https://yummy0102.tistory.com/467)||
 
 ### Algorithm
 
