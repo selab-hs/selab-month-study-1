@@ -133,7 +133,7 @@
 |2022-08-16|[day64 🌕](https://velog.io/@newbiekim/day64-slaoe134)|[TIL64](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day33 🌱](https://yummy0102.tistory.com/462)||
 |2022-08-17|[day65 🌕](https://velog.io/@newbiekim/day65-hgy7o4nq)|[TIL65](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day34 🌱](https://yummy0102.tistory.com/463)||
 |2022-08-18|휴가 🤭|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day35 🌱](https://yummy0102.tistory.com/466)||
-|2022-08-19||||||
+|2022-08-19||||[Day36 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-20||||||
 
 <!--
