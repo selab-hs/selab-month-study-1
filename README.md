@@ -133,7 +133,7 @@
 |2022-08-16|[day64 🌕](https://velog.io/@newbiekim/day64-slaoe134)|[TIL64](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day33 🌱](https://yummy0102.tistory.com/462)||
 |2022-08-17|[day65 🌕](https://velog.io/@newbiekim/day65-hgy7o4nq)|[TIL65](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day34 🌱](https://yummy0102.tistory.com/463)||
 |2022-08-18|휴가 🤭|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day35 🌱](https://yummy0102.tistory.com/466)||
-|2022-08-19||||[Day36 🌱](https://yummy0102.tistory.com/466)||
+|2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|||[Day36 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-20||||||
 
 <!--
@@ -209,7 +209,7 @@
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|||||
-|maven, gradle||||[🔵](https://yummy0102.tistory.com/468)||
+|maven, gradle|[🔵](https://unequaled-peach-7e5.notion.site/Maven-Gradle-397e234d4e484c54953dc89c8515067b)|||[🔵](https://yummy0102.tistory.com/468)||
 |라이브러리 vs 프레임워크||||||
 
 ### Java
