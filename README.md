@@ -206,7 +206,7 @@
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|||||
-|maven, gradle||||[🔴](https://yummy0102.tistory.com/468)||
+|maven, gradle||||[🔵](https://yummy0102.tistory.com/468)||
 
 ### Java
 
