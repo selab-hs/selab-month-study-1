@@ -134,7 +134,7 @@
 |2022-08-17|[day65 🌕](https://velog.io/@newbiekim/day65-hgy7o4nq)|[TIL65](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day34 🌱](https://yummy0102.tistory.com/463)||
 |2022-08-18|휴가 🤭|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day35 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|||[Day36 🌱](https://yummy0102.tistory.com/466)||
-|2022-08-20||||[Day37 🌱](https://yummy0102.tistory.com/473)||
+|2022-08-20||||[Day37 🌱](https://yummy0102.tistory.com/473)|[TIL36](https://twosky.tistory.com/31)|
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -224,11 +224,11 @@
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
-|오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|||[🔵](https://yummy0102.tistory.com/465)||
+|오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
-|인터페이스와 추상클래스||||[🔴](https://yummy0102.tistory.com/467)||
+|인터페이스와 추상클래스||||[🔴](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스||||||
 
 ### Algorithm
@@ -246,7 +246,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|싱글톤 패턴||||||
+|싱글톤 패턴|||||[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
 |상태 패턴||||||
 
 ### Etc
