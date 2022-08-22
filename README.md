@@ -135,7 +135,7 @@
 |2022-08-18|휴가 🤭|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day35 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day36 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-20|[day67 🌕](https://velog.io/@newbiekim/day67-4qkcgwhd)|[TIL67](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day37 🌱](https://yummy0102.tistory.com/473)|[TIL36](https://twosky.tistory.com/31)|
-|2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|[TIL68](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day38 🌱](https://yummy0102.tistory.com/475)||
+|2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|[TIL68](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day38 🌱](https://yummy0102.tistory.com/475)|휴가|
 |2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)|[TIL37](https://twosky.tistory.com/32)|
 |2022-08-23||||||
 |2022-08-24||||||
@@ -309,4 +309,5 @@
 |2022-07-11|이하늘|초기생성|5|
 |2022-07-30|황인준|지인 약속|3|
 |2022-08-18|손장미|호호 호캉스 🏨|4|
+|2022-08-21|이하늘|여행|4|
 
