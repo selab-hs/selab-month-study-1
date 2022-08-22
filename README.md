@@ -133,10 +133,10 @@
 |2022-08-16|[day64 🌕](https://velog.io/@newbiekim/day64-slaoe134)|[TIL64](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day33 🌱](https://yummy0102.tistory.com/462)||
 |2022-08-17|[day65 🌕](https://velog.io/@newbiekim/day65-hgy7o4nq)|[TIL65](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day34 🌱](https://yummy0102.tistory.com/463)||
 |2022-08-18|휴가 🤭|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day35 🌱](https://yummy0102.tistory.com/466)||
-|2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|||[Day36 🌱](https://yummy0102.tistory.com/466)||
-|2022-08-20|[day67 🌕](https://velog.io/@newbiekim/day67-4qkcgwhd)|||[Day37 🌱](https://yummy0102.tistory.com/473)|[TIL36](https://twosky.tistory.com/31)|
-|2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|||[Day38 🌱](https://yummy0102.tistory.com/475)||
-|2022-08-22||||||
+|2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day36 🌱](https://yummy0102.tistory.com/466)||
+|2022-08-20|[day67 🌕](https://velog.io/@newbiekim/day67-4qkcgwhd)|[TIL67](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day37 🌱](https://yummy0102.tistory.com/473)|[TIL36](https://twosky.tistory.com/31)|
+|2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|[TIL68](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day38 🌱](https://yummy0102.tistory.com/475)||
+|2022-08-22||[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||||
 |2022-08-23||||||
 |2022-08-24||||||
 |2022-08-25||||||
