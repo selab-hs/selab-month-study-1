@@ -136,7 +136,7 @@
 |2022-08-19|[day66 🌕](https://velog.io/@newbiekim/day66-8i1htwqz)|[TIL66](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day36 🌱](https://yummy0102.tistory.com/466)||
 |2022-08-20|[day67 🌕](https://velog.io/@newbiekim/day67-4qkcgwhd)|[TIL67](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day37 🌱](https://yummy0102.tistory.com/473)|[TIL36](https://twosky.tistory.com/31)|
 |2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|[TIL68](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day38 🌱](https://yummy0102.tistory.com/475)||
-|2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)||
+|2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)|[TIL37](https://twosky.tistory.com/32)|
 |2022-08-23||||||
 |2022-08-24||||||
 |2022-08-25||||||
@@ -292,7 +292,7 @@
 |2022-07-25 ~ 2022-07-31|[7주차](https://velog.io/@newbiekim/7주차-회고록)|[7주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-07-5주차.md)||[3주차](https://yummy0102.tistory.com/437)|[3주차](https://twosky.tistory.com/12?category=1035493)|
 |2022-08-01 ~ 2022-08-07|[8주차](https://velog.io/@newbiekim/8주차-회고록)|[8주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-08-1주차.md)||[4주차](https://yummy0102.tistory.com/449)|[4주차](https://twosky.tistory.com/20?category=1035493)|
 |2022-08-08 ~ 2022-08-14|[9주차](https://velog.io/@newbiekim/9주차-회고록)|[9주차](https://github.com/InJun2/TIL/blob/main/todo-list/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D/22-08-2%EC%A3%BC%EC%B0%A8.md)||[5주차](https://yummy0102.tistory.com/459)|[5주차](https://twosky.tistory.com/30)|
-|2022-08-15 ~ 2022-08-21|[10주차](https://velog.io/@newbiekim/10주차-회고록)|||[6주차](https://yummy0102.tistory.com/479)||
+|2022-08-15 ~ 2022-08-21|[10주차](https://velog.io/@newbiekim/10주차-회고록)|||[6주차](https://yummy0102.tistory.com/479)|[6주차](https://twosky.tistory.com/33)|
 |2022-08-22 ~ 2022-08-28||||||
 
 ---
