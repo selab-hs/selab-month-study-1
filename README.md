@@ -235,7 +235,7 @@
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
-|인터페이스와 추상클래스||||[🔴](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
+|인터페이스와 추상클래스||||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스||||||
 
 ### Algorithm
