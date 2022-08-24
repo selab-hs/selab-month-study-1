@@ -138,7 +138,7 @@
 |2022-08-21|[day68 🌕](https://velog.io/@newbiekim/day68-ebkth7en)|[TIL68](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day38 🌱](https://yummy0102.tistory.com/475)|휴가|
 |2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)|[TIL37](https://twosky.tistory.com/32)|
 |2022-08-23|[day70 🌕](https://velog.io/@newbiekim/day70-nlx492um)|||[Day40 🌱](https://yummy0102.tistory.com/481)||
-|2022-08-24||||||
+|2022-08-24|[day71 🌕](https://velog.io/@newbiekim/day71-k9vobo57)|||||
 |2022-08-25||||||
 |2022-08-26||||||
 |2022-08-27||||||
