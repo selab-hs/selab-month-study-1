@@ -139,7 +139,7 @@
 |2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)|[TIL37](https://twosky.tistory.com/32)|
 |2022-08-23|[day70 🌕](https://velog.io/@newbiekim/day70-nlx492um)|||[Day40 🌱](https://yummy0102.tistory.com/481)|[TIL38](https://twosky.tistory.com/34)|
 |2022-08-24|[day71 🌕](https://velog.io/@newbiekim/day71-k9vobo57)|||[Day41 🌱](https://yummy0102.tistory.com/483)|[TIL39](https://twosky.tistory.com/35?category=1037176)|
-|2022-08-25||||[Day42 🌱](https://yummy0102.tistory.com/486)|[TIL40](https://twosky.tistory.com/36)|
+|2022-08-25|[day72 🌕](https://velog.io/@newbiekim/day72-5bomk59m)|||[Day42 🌱](https://yummy0102.tistory.com/486)|[TIL40](https://twosky.tistory.com/36)|
 |2022-08-26||||||
 |2022-08-27||||||
 
