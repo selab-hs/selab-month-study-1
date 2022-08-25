@@ -139,7 +139,7 @@
 |2022-08-22|[day69 🌕](https://velog.io/@newbiekim/day69-q0i0dy38)|[TIL69](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day39 🌱](https://yummy0102.tistory.com/478)|[TIL37](https://twosky.tistory.com/32)|
 |2022-08-23|[day70 🌕](https://velog.io/@newbiekim/day70-nlx492um)|||[Day40 🌱](https://yummy0102.tistory.com/481)|[TIL38](https://twosky.tistory.com/34)|
 |2022-08-24|[day71 🌕](https://velog.io/@newbiekim/day71-k9vobo57)|||[Day41 🌱](https://yummy0102.tistory.com/483)|[TIL39](https://twosky.tistory.com/35?category=1037176)|
-|2022-08-25||||[Day42 🌱](https://yummy0102.tistory.com/486)||
+|2022-08-25||||[Day42 🌱](https://yummy0102.tistory.com/486)|[TIL40](https://twosky.tistory.com/36)|
 |2022-08-26||||||
 |2022-08-27||||||
 
@@ -254,7 +254,7 @@
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
-|상태 패턴||||[🔵](https://yummy0102.tistory.com/482)||
+|상태 패턴||||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
 
 ### Etc
 
