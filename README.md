@@ -197,7 +197,7 @@
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
 |커널|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
-|시스템 콜||||||
+|시스템 콜||||[🔵](https://yummy0102.tistory.com/485)||
 
 ### Spring
 
