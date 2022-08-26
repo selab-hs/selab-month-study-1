@@ -197,7 +197,7 @@
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
 |커널|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
-|시스템 콜||||[🔵](https://yummy0102.tistory.com/485)||
+|시스템 콜||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
 
 ### Spring
 
@@ -216,8 +216,8 @@
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
 |Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|||||
-|maven, gradle|[🔵](https://unequaled-peach-7e5.notion.site/Maven-Gradle-397e234d4e484c54953dc89c8515067b)|||[🔵](https://yummy0102.tistory.com/468)||
-|라이브러리 vs 프레임워크||||||
+|maven, gradle|[🔵](https://unequaled-peach-7e5.notion.site/Maven-Gradle-397e234d4e484c54953dc89c8515067b)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Maven-Gradle.md)||[🔵](https://yummy0102.tistory.com/468)||
+|라이브러리 vs 프레임워크||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Library-Framework.md)||||
 
 ### Java
 
@@ -231,11 +231,11 @@
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
-|오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
+|오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Overloading-Overriding.md)||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
 |Java compile 과정||||||
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
-|인터페이스와 추상클래스||||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
+|인터페이스와 추상클래스||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스||||||
 
 ### Algorithm
@@ -253,8 +253,8 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
-|상태 패턴||||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
+|싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
+|상태 패턴||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
 
 ### Etc
 
