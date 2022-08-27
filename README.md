@@ -199,7 +199,7 @@
 |캐시|[🔵](https://unequaled-peach-7e5.notion.site/Cache-9fd4b661dd26453496af3aea49153dcd)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cache.md)||||
 |RAID||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Computer%20Architecture/RAID.md)||||
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
-|커널|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||[🔴](https://yummy0102.tistory.com/489)||
+|커널|[🔵](https://unequaled-peach-7e5.notion.site/Kernel-33a5b8f1c882413180ddbd8019430435)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||[🔴](https://yummy0102.tistory.com/489)||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
 |시스템 콜||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
 
