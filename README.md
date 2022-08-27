@@ -201,7 +201,7 @@
 |스케줄링 기법||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Scheduling.md)||||
 |커널|[🔵](https://unequaled-peach-7e5.notion.site/Kernel-33a5b8f1c882413180ddbd8019430435)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||[🔴](https://yummy0102.tistory.com/489)||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
-|시스템 콜||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
+|시스템 콜|[🔵](https://unequaled-peach-7e5.notion.site/System-Call-adad5c0b9e374c28b0539567e388988c)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
 
 ### Spring
 
