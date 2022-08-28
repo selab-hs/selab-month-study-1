@@ -250,8 +250,8 @@
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
 |이진 탐색||||||
 |tree||||||
-|동적 계획법 dp||||||
-|O() 표기법||||[🔴](https://yummy0102.tistory.com/491)||
+|동적 계획법 dp||||[🔴](https://yummy0102.tistory.com/495)||
+|O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
 
 ### 디자인 패턴
 
