@@ -140,9 +140,9 @@
 |2022-08-23|[day70 🌕](https://velog.io/@newbiekim/day70-nlx492um)|[TIL70](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day40 🌱](https://yummy0102.tistory.com/481)|[TIL38](https://twosky.tistory.com/34)|
 |2022-08-24|[day71 🌕](https://velog.io/@newbiekim/day71-k9vobo57)|[TIL71](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day41 🌱](https://yummy0102.tistory.com/483)|[TIL39](https://twosky.tistory.com/35?category=1037176)|
 |2022-08-25|[day72 🌕](https://velog.io/@newbiekim/day72-5bomk59m)|[TIL72](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day42 🌱](https://yummy0102.tistory.com/486)|[TIL40](https://twosky.tistory.com/36)|
-|2022-08-26|[day73 🌕](https://velog.io/@newbiekim/day73-2cqiwukt)|[TIL73](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day43 🌱](https://yummy0102.tistory.com/488)||
-|2022-08-27|[day74 🌕](https://velog.io/@newbiekim/day74-yq0g0occ)|||[Day44 🌱](https://yummy0102.tistory.com/492)||
-|2022-08-28|[day75 🌕](https://velog.io/@newbiekim/day75-8w61zc0x)|||[Day45 🌱](https://yummy0102.tistory.com/493)||
+|2022-08-26|[day73 🌕](https://velog.io/@newbiekim/day73-2cqiwukt)|[TIL73](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day43 🌱](https://yummy0102.tistory.com/488)|[TIL41](https://twosky.tistory.com/37)|
+|2022-08-27|[day74 🌕](https://velog.io/@newbiekim/day74-yq0g0occ)|||[Day44 🌱](https://yummy0102.tistory.com/492)|휴가|
+|2022-08-28|[day75 🌕](https://velog.io/@newbiekim/day75-8w61zc0x)|||[Day45 🌱](https://yummy0102.tistory.com/493)|[TIL42](https://twosky.tistory.com/38)|
 |2022-08-29||||||
 |2022-08-30||||||
 |2022-08-31||||||
@@ -250,7 +250,7 @@
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
 |이진 탐색||||||
 |tree||||||
-|동적 계획법 dp||||[🔴](https://yummy0102.tistory.com/495)||
+|동적 계획법 dp||||[🔴](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
 
 ### 디자인 패턴
