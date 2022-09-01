@@ -111,7 +111,10 @@
 </div>
 </details>
 
-8월
+<details>
+<summary>8월</summary>
+<div markdown="1">
+<br>
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -147,11 +150,14 @@
 |2022-08-30|[day77 🌕](https://velog.io/@newbiekim/day77-c09qylhq)|[TIL77](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day47 🌱](https://yummy0102.tistory.com/498)|[TIL44](https://twosky.tistory.com/40)|
 |2022-08-31|[day78 🌕](https://velog.io/@newbiekim/day78-sxz5bya3)|[TIL78](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day48 🌱](https://yummy0102.tistory.com/500)||
 
+</div>
+</details>
+  
 9월
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2022-09-01||[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)||
+|2022-09-01|[day79 🌕](https://velog.io/@newbiekim/day79-0ftzyh2z)|[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)||
 |2022-09-02||||||
 |2022-09-03||||||
 |2022-09-04||||||
