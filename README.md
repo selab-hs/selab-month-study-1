@@ -148,7 +148,7 @@
 |2022-08-28|[day75 🌕](https://velog.io/@newbiekim/day75-8w61zc0x)|[TIL75](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day45 🌱](https://yummy0102.tistory.com/493)|[TIL42](https://twosky.tistory.com/38)|
 |2022-08-29|[day76 🌕](https://velog.io/@newbiekim/day76-9ymvv3ry)|[TIL76](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day46 🌱](https://yummy0102.tistory.com/496)|[TIL43](https://twosky.tistory.com/39)|
 |2022-08-30|[day77 🌕](https://velog.io/@newbiekim/day77-c09qylhq)|[TIL77](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day47 🌱](https://yummy0102.tistory.com/498)|[TIL44](https://twosky.tistory.com/40)|
-|2022-08-31|[day78 🌕](https://velog.io/@newbiekim/day78-sxz5bya3)|[TIL78](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day48 🌱](https://yummy0102.tistory.com/500)||
+|2022-08-31|[day78 🌕](https://velog.io/@newbiekim/day78-sxz5bya3)|[TIL78](https://github.com/InJun2/TIL/blob/main/todo-list/2022/08)||[Day48 🌱](https://yummy0102.tistory.com/500)|[TIL45](https://twosky.tistory.com/41)|
 
 </div>
 </details>
@@ -157,7 +157,7 @@
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2022-09-01|[day79 🌕](https://velog.io/@newbiekim/day79-0ftzyh2z)|[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)||
+|2022-09-01|[day79 🌕](https://velog.io/@newbiekim/day79-0ftzyh2z)|[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)|TIL46](https://twosky.tistory.com/42)|
 |2022-09-02||||||
 |2022-09-03||||||
 |2022-09-04||||||
