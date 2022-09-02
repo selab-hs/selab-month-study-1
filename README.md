@@ -183,7 +183,7 @@
 |로드밸런스|[🔵](https://unequaled-peach-7e5.notion.site/08fd5c63b2dd418a907597b8c5f632e3)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Load%20Balancing.md)||||
 |IP, TCP, UDP, HTTP|[🔵](https://unequaled-peach-7e5.notion.site/IP-TCP-UDP-HTTP-cc91a32eb6d341088ec32c29332a4bc6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IP-TCP-UDP-HTTP.md)||[🔵](https://field-okra-184.notion.site/IP-TCP-UDP-HTTP-18c9c0b2639d4c56bbc146d0b28646e3)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network)|
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
-|HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
+|HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
 |http 1, 2, 3||||||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|||[🔵](https://yummy0102.tistory.com/503)||
