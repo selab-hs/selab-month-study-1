@@ -199,7 +199,7 @@
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
-|sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|||||
+|sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|||[🔵](https://yummy0102.tistory.com/499)||
 |정규화||||||
 |db view||||||
 
