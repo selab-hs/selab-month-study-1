@@ -256,7 +256,7 @@
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
 |인터페이스와 추상클래스||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
-|스네이크, 파스칼, 카멜 케이스||||||
+|스네이크, 파스칼, 카멜 케이스||||[🔵](https://yummy0102.tistory.com/508)||
 
 ### Algorithm
 
