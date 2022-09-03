@@ -186,7 +186,7 @@
 |HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
 |http 1, 2, 3||||||
-|cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|||[🔵](https://yummy0102.tistory.com/503)||
+|cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
 |ipv4 vs ipv6||||||
 
 ### Database
@@ -199,7 +199,7 @@
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
-|sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|||[🔵](https://yummy0102.tistory.com/499)||
+|sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
 |정규화||||||
 |db view||||||
 
@@ -256,7 +256,7 @@
 |Java version별 차이점||||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
 |인터페이스와 추상클래스||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
-|스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|||[🔵](https://yummy0102.tistory.com/508)||
+|스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Notation.md)||[🔵](https://yummy0102.tistory.com/508)||
 
 ### Algorithm
 
@@ -266,7 +266,7 @@
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
 |이진 탐색||||||
 |tree||||||
-|동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
+|동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Dynamic_Programming.md)||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
 
 ### 디자인 패턴
@@ -286,7 +286,7 @@
 |객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |개발자가 되고 싶은 이유||||||
-|좋은 개발자란 무엇일까요||||[🔴](https://yummy0102.tistory.com/494)||
+|좋은 개발자란 무엇일까요||[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
 |java와 c언어의 차이||||||
