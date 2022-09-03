@@ -158,8 +158,8 @@
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-09-01|[day79 🌕](https://velog.io/@newbiekim/day79-0ftzyh2z)|[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)|[TIL46](https://twosky.tistory.com/42)|
-|2022-09-02|[day80 🌕](https://velog.io/@newbiekim/day80-34qroebo)|||[Day50 🌱](https://yummy0102.tistory.com/504)||
-|2022-09-03|[day81 🌕](https://velog.io/@newbiekim/day81-prm3pp6s)|||||
+|2022-09-02|[day80 🌕](https://velog.io/@newbiekim/day80-34qroebo)|[TIL80](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day50 🌱](https://yummy0102.tistory.com/504)||
+|2022-09-03|[day81 🌕](https://velog.io/@newbiekim/day81-prm3pp6s)|[TIL81](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
 |2022-09-04||||||
 |2022-09-05||||||
 
