@@ -160,8 +160,13 @@
 |2022-09-01|[day79 🌕](https://velog.io/@newbiekim/day79-0ftzyh2z)|[TIL79](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day49 🌱](https://yummy0102.tistory.com/501)|[TIL46](https://twosky.tistory.com/42)|
 |2022-09-02|[day80 🌕](https://velog.io/@newbiekim/day80-34qroebo)|[TIL80](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day50 🌱](https://yummy0102.tistory.com/504)||
 |2022-09-03|[day81 🌕](https://velog.io/@newbiekim/day81-prm3pp6s)|[TIL81](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day51 🌱](https://yummy0102.tistory.com/506)||
-|2022-09-04||[TIL82](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day52 🌱](https://yummy0102.tistory.com/512)||
+|2022-09-04|[day82 🌕](https://velog.io/@newbiekim/day82-f10s6nwu)|[TIL82](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day52 🌱](https://yummy0102.tistory.com/512)||
 |2022-09-05||||||
+|2022-09-06||||||
+|2022-09-07||||||
+|2022-09-08||||||
+|2022-09-09||||||
+|2022-09-10||||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -316,6 +321,7 @@
 |2022-08-22 ~ 2022-08-28|[11주차](https://velog.io/@newbiekim/11주차-회고록)|[11주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-08-4주차.md)||[7주차](https://yummy0102.tistory.com/497)||
 |2022-08-29 ~ 2022-09-04||||||
 |2022-09-05 ~ 2022-09-11||||||
+|2022-09-12 ~ 2022-09-18||||||
 
 ---
 
