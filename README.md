@@ -163,7 +163,7 @@
 |2022-09-04|[day82 🌕](https://velog.io/@newbiekim/day82-f10s6nwu)|[TIL82](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day52 🌱](https://yummy0102.tistory.com/512)||
 |2022-09-05|[day83 🌕](https://velog.io/@newbiekim/day83-646smg8f)|||[Day53 🌱](https://yummy0102.tistory.com/514)||
 |2022-09-06|[day84 🌕](https://velog.io/@newbiekim/day84-4y074oxk)|||[Day54 🌱](https://yummy0102.tistory.com/519)||
-|2022-09-07||||||
+|2022-09-07|||||[Day55 🌱](https://yummy0102.tistory.com/524)|
 |2022-09-08||||||
 |2022-09-09||||||
 |2022-09-10||||||
