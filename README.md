@@ -205,7 +205,7 @@
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
-|정규화||||||
+|정규화|🔴|||||
 |db view||||||
 
 ### Operate System
@@ -258,9 +258,9 @@
 |Jpa 1차 캐시||||||
 |오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Overloading-Overriding.md)||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
 |Java compile 과정||||[🔵](https://yummy0102.tistory.com/510)||
-|Java version별 차이점||||||
+|Java version별 차이점|🔴|||||
 |mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
-|인터페이스와 추상클래스||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
+|인터페이스와 추상클래스|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Notation.md)||[🔵](https://yummy0102.tistory.com/508)||
 
 ### Algorithm
@@ -279,7 +279,7 @@
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
-|상태 패턴||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
+|상태 패턴|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
 
 ### Etc
 
@@ -291,7 +291,7 @@
 |객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |개발자가 되고 싶은 이유||||||
-|좋은 개발자란 무엇일까요||[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
+|좋은 개발자란 무엇일까요|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
 |java와 c언어의 차이||||||
