@@ -206,7 +206,7 @@
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
 |정규화|🔴|||||
-|db view||||[🔵](https://yummy0102.tistory.com/525)||
+|db view|[🔵](https://unequaled-peach-7e5.notion.site/DB-View-1b96d794ca7a470fb948bc3ce1e64f35)|||[🔵](https://yummy0102.tistory.com/525)||
 
 ### Operate System
 
@@ -269,7 +269,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
-|이진 탐색||||||
+|이진 탐색|🔴|||||
 |tree||||||
 |동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Dynamic_Programming.md)||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
