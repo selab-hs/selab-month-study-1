@@ -269,7 +269,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
-|이진 탐색|🔴|||||
+|이진 탐색|[🔵](https://unequaled-peach-7e5.notion.site/c8b43ba3d336485fbae99ea9d2b0e731)|||||
 |tree||||||
 |동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Dynamic_Programming.md)||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
