@@ -206,7 +206,7 @@
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
 |정규화|🔴|||||
-|db view||||||
+|db view||||[🔵](https://yummy0102.tistory.com/525)||
 
 ### Operate System
 
