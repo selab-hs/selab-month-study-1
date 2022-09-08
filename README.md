@@ -19,7 +19,7 @@
 
 | SPACE          |    의정부핵꿀밤   | 제주도 푸른 밤    |
 | :-----------------------------------: | :-----------------: | :----------------: |
-|<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
+|<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="![image](https://user-images.githubusercontent.com/79418036/189061587-142841aa-c0dc-42f9-a5d9-f84978ad968e.png)" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
 | [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
 |간단 자기소개|👑퀸벨로퍼👑|기초 탄탄이가 되어보자|
 
