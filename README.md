@@ -167,7 +167,7 @@
 |2022-09-08|[day86 🌕](https://velog.io/@newbiekim/day86-77hxfenn)|[TIL86](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day56 🌱](https://yummy0102.tistory.com/527)||
 |2022-09-09|[day87 🌕](https://velog.io/@newbiekim/day87-3d04k1tx)|[TIL87](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day57 🌱](https://yummy0102.tistory.com/528)||
 |2022-09-10|[day88 🌕](https://velog.io/@newbiekim/day88-c15dioae)|[TIL88](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day58 🌱](https://yummy0102.tistory.com/530)||
-|2022-09-11||||||
+|2022-09-11||||[Day59 🌱](https://yummy0102.tistory.com/534)||
 |2022-09-12||||||
 |2022-09-13||||||
 |2022-09-14||||||
