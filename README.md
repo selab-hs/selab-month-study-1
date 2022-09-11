@@ -195,7 +195,7 @@
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||||
 |HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
-|http 1, 2, 3||||||
+|http 1, 2, 3|🔴|||||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
 |ipv4 vs ipv6||||||
 
@@ -205,7 +205,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |DB Index|[🔵](https://unequaled-peach-7e5.notion.site/DB-Index-b8277f4085d949c0b5e83a4d40f59b37)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_Index.md)||[🔵](https://yummy0102.tistory.com/407)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/Index.md)|
 |Database Engine||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB%20Engine.md)|||||
-|Redis||[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
+|Redis|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||||
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
 |DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
@@ -299,7 +299,7 @@
 |좋은 개발자란 무엇일까요|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
-|java와 c언어의 차이||||||
+|java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|||||
 |이루고 싶은 목표||||||
 
 <!--
