@@ -171,9 +171,9 @@
 |2022-09-12|[day90 🌕](https://velog.io/@newbiekim/day90-ldfx7g6d)|[TIL90](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day60 🌱](https://yummy0102.tistory.com/537)||
 |2022-09-13|[day91 🌕](https://velog.io/@newbiekim/day91-waqcirym)|[TIL91](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day61 🌱](https://yummy0102.tistory.com/539)||
 |2022-09-14|[day92 🌕](https://velog.io/@newbiekim/day92-6d6wvxrw)|[TIL92](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day62 🌱](https://yummy0102.tistory.com/541)||
-|2022-09-15|[day93 🌕](https://velog.io/@newbiekim/day93-xpofpp31)|||||
-|2022-09-16||||||
-|2022-09-17||||||
+|2022-09-15|[day93 🌕](https://velog.io/@newbiekim/day93-xpofpp31)|[TIL93](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
+|2022-09-16||[TIL94](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
+|2022-09-17||[TIL95](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
 |2022-09-18||||||
 |2022-09-19||||||
 |2022-09-20||||||
@@ -329,8 +329,8 @@
 |2022-08-08 ~ 2022-08-14|[9주차](https://velog.io/@newbiekim/9주차-회고록)|[9주차](https://github.com/InJun2/TIL/blob/main/todo-list/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D/22-08-2%EC%A3%BC%EC%B0%A8.md)||[5주차](https://yummy0102.tistory.com/459)|[5주차](https://twosky.tistory.com/30)|
 |2022-08-15 ~ 2022-08-21|[10주차](https://velog.io/@newbiekim/10주차-회고록)|[10주차](https://github.com/InJun2/TIL/blob/main/todo-list/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D/22-08-3%EC%A3%BC%EC%B0%A8.md)||[6주차](https://yummy0102.tistory.com/479)|[6주차](https://twosky.tistory.com/33)|
 |2022-08-22 ~ 2022-08-28|[11주차](https://velog.io/@newbiekim/11주차-회고록)|[11주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-08-4주차.md)||[7주차](https://yummy0102.tistory.com/497)||
-|2022-08-29 ~ 2022-09-04|[12주차](https://velog.io/@newbiekim/12주차-회고록)|[11주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-1주차.md)||[8주차](https://yummy0102.tistory.com/517)||
-|2022-09-05 ~ 2022-09-11|[13주차](https://velog.io/@newbiekim/13주차-회고록)|||[9주차](https://yummy0102.tistory.com/542)||
+|2022-08-29 ~ 2022-09-04|[12주차](https://velog.io/@newbiekim/12주차-회고록)|[12주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-1주차.md)||[8주차](https://yummy0102.tistory.com/517)||
+|2022-09-05 ~ 2022-09-11|[13주차](https://velog.io/@newbiekim/13주차-회고록)|[13주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-1주차.md)||[9주차](https://yummy0102.tistory.com/542)||
 |2022-09-12 ~ 2022-09-18||||||
 
 ---
