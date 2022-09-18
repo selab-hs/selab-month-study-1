@@ -304,7 +304,7 @@
 |좋은 개발자란 무엇일까요|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
-|java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|||||
+|java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|||[🔵](https://yummy0102.tistory.com/545)||
 |이루고 싶은 목표||||||
 
 <!--
