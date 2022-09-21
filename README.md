@@ -174,9 +174,9 @@
 |2022-09-15|[day93 🌕](https://velog.io/@newbiekim/day93-xpofpp31)|[TIL93](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||휴가||
 |2022-09-16|휴가|[TIL94](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||휴가||
 |2022-09-17|[day94 🌕](https://velog.io/@newbiekim/day94-u8250b0d)|[TIL95](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day63 🌱](https://yummy0102.tistory.com/543)||
-|2022-09-18|[day95 🌕](https://velog.io/@newbiekim/day95-b1cjybgo)|||[Day64 🌱](https://yummy0102.tistory.com/546)||
-|2022-09-19|[day96 🌕](https://velog.io/@newbiekim/day96-yhaop2p3)|||[Day65 🌱](https://yummy0102.tistory.com/549)||
-|2022-09-20|[day97 🌕](https://velog.io/@newbiekim/day97-sdrvi4qg)|||||
+|2022-09-18|[day95 🌕](https://velog.io/@newbiekim/day95-b1cjybgo)|[TIL96](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day64 🌱](https://yummy0102.tistory.com/546)||
+|2022-09-19|[day96 🌕](https://velog.io/@newbiekim/day96-yhaop2p3)|[TIL97](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day65 🌱](https://yummy0102.tistory.com/549)||
+|2022-09-20|[day97 🌕](https://velog.io/@newbiekim/day97-sdrvi4qg)|[TIL98](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
 |2022-09-21||||||
 |2022-09-22||||||
 |2022-09-23||||||
@@ -203,9 +203,9 @@
 |라우터||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||[🔵](https://yummy0102.tistory.com/555)||
 |HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
-|http 1, 2, 3|🔴|||[🔴](https://yummy0102.tistory.com/536)||
+|http 1, 2, 3|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP_1-2-3.md)||[🔴](https://yummy0102.tistory.com/536)||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
-|ipv4 vs ipv6||||||
+|ipv4 vs ipv6||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IPv4-IPv6.md)||||
 
 ### Database
 
@@ -216,10 +216,10 @@
 |Redis|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Redis.md)||[🔵](https://yummy0102.tistory.com/538)||
 |RDB vs Nosql|[🔵](https://unequaled-peach-7e5.notion.site/RDB-vs-NoSQL-c354ab513d7243fa9c54d7aec1520167)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/RDB-Nosql.md)||[🔵](https://yummy0102.tistory.com/440)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/SQL%20vs%20NoSQL.md)|
 |트랜잭션|[🔵](https://unequaled-peach-7e5.notion.site/DB-8987ed9cf61b4492971483ec2bcdae78)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Transaction.md)|||[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
-|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)||[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
+|DDL, DML, DCL|[🔵](https://unequaled-peach-7e5.notion.site/DDL-DML-DCL-b3d530cfad8c42ee84243c03c0c05a8a)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DDL-DML-DCL.md)|[🔵](https://yummy0102.tistory.com/453)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Database/DDL%2C%20DML%2C%20DCL.md)|
 |sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
-|정규화|🔴|||||
-|db view|[🔵](https://unequaled-peach-7e5.notion.site/DB-View-1b96d794ca7a470fb948bc3ce1e64f35)|||[🔵](https://yummy0102.tistory.com/525)||
+|정규화|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Normalization.md)||||
+|db view|[🔵](https://unequaled-peach-7e5.notion.site/DB-View-1b96d794ca7a470fb948bc3ce1e64f35)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_View.md)||[🔵](https://yummy0102.tistory.com/525)||
 
 ### Operate System
 
@@ -249,11 +249,11 @@
 |spring servlet|[🔵](https://unequaled-peach-7e5.notion.site/Spring-Servlet-e0fc9a937b9c4603ac01133a31febcc5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Servlet.md)||[🔵](https://yummy0102.tistory.com/455)||
 |spring vs EJB||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-EJB.md)||[🔵](https://yummy0102.tistory.com/550)||
 |Spring MVC|[🔵](https://unequaled-peach-7e5.notion.site/Spring-MVC-f799257dc30e43c19e90e439cef285b5)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_MVC.md)||||
-|본인이 생각하는 스프링의 장점||||||
-|트랜잭션|🔴|||||
+|본인이 생각하는 스프링의 장점||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Advantage.md)||||
+|트랜잭션|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring_Transaction.md)||||
 |filter, intercepter, aop||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Filter-Interceptor-Aop.md)||||
 |spring vs spring boot|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||[🔵](https://yummy0102.tistory.com/438)||
-|Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|||||
+|Dispatcher Servlet|[🔵](https://unequaled-peach-7e5.notion.site/Dispatcher-Servlet-56a2f1a95a06438f8b3c1f9a54d4c1c0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/DispatcherServlet.md)||||
 |maven, gradle|[🔵](https://unequaled-peach-7e5.notion.site/Maven-Gradle-397e234d4e484c54953dc89c8515067b)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Maven-Gradle.md)||[🔵](https://yummy0102.tistory.com/468)||
 |라이브러리 vs 프레임워크||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Library-Framework.md)||||
 
@@ -271,8 +271,8 @@
 |Jpa 1차 캐시||||||
 |오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Overloading-Overriding.md)||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
 |Java compile 과정||||[🔵](https://yummy0102.tistory.com/510)||
-|Java version별 차이점|[🔵](https://unequaled-peach-7e5.notion.site/9d1b5d12249046a7bddde696c0238230)|||||
-|mutable vs immutable||||[🔴](https://yummy0102.tistory.com/447)||
+|Java version별 차이점|[🔵](https://unequaled-peach-7e5.notion.site/9d1b5d12249046a7bddde696c0238230)|[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java_Versions.md)||||
+|mutable vs immutable||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Java/Mutable-Immutable.md)||[🔴](https://yummy0102.tistory.com/447)||
 |인터페이스와 추상클래스|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Notation.md)||[🔵](https://yummy0102.tistory.com/508)||
 
@@ -283,7 +283,7 @@
 |알고리즘 - 정렬|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/정렬알고리즘.md)||||
 |시간 복잡도, 공간 복잡도|[🔵](https://unequaled-peach-7e5.notion.site/0324294a605d41319bc5150da42940fc)|||[🔵](https://yummy0102.tistory.com/490)||
 |이진 탐색|[🔵](https://unequaled-peach-7e5.notion.site/c8b43ba3d336485fbae99ea9d2b0e731)|||||
-|tree||||[🔵](https://yummy0102.tistory.com/540)||
+|tree||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Tree.md)||[🔵](https://yummy0102.tistory.com/540)||
 |동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Dynamic_Programming.md)||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
 
@@ -307,7 +307,7 @@
 |좋은 개발자란 무엇일까요|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
-|java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|||[🔵](https://yummy0102.tistory.com/545)||
+|java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/Java-C%EC%B0%A8%EC%9D%B4.md)||[🔵](https://yummy0102.tistory.com/545)||
 |이루고 싶은 목표||||||
 
 <!--
@@ -334,7 +334,7 @@
 |2022-08-22 ~ 2022-08-28|[11주차](https://velog.io/@newbiekim/11주차-회고록)|[11주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-08-4주차.md)||[7주차](https://yummy0102.tistory.com/497)||
 |2022-08-29 ~ 2022-09-04|[12주차](https://velog.io/@newbiekim/12주차-회고록)|[12주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-1주차.md)||[8주차](https://yummy0102.tistory.com/517)||
 |2022-09-05 ~ 2022-09-11|[13주차](https://velog.io/@newbiekim/13주차-회고록)|[13주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-2주차.md)||[9주차](https://yummy0102.tistory.com/542)||
-|2022-09-12 ~ 2022-09-18|[14주차](https://velog.io/@newbiekim/14주차-회고록)|||[10주차](https://yummy0102.tistory.com/551)||
+|2022-09-12 ~ 2022-09-18|[14주차](https://velog.io/@newbiekim/14주차-회고록)|[14주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-3주차.md)||[10주차](https://yummy0102.tistory.com/551)||
 |2022-09-19 ~ 2022-09-25||||||
 
 ---
