@@ -307,7 +307,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |GIT ||||||
 |Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
-|Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||||
+|Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||[🔵](https://yummy0102.tistory.com/567)||
 |객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
 |개발자가 되고 싶은 이유||||||
