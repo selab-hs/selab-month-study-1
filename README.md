@@ -183,7 +183,7 @@
 |2022-09-24|[day101 🌕](https://velog.io/@newbiekim/day101-nrj5yn3b)|[TIL102](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day70 🌱](https://yummy0102.tistory.com/562)||
 |2022-09-25|[day102 🌕](https://velog.io/@newbiekim/day102-eadg7m0p)|[TIL103](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day71 🌱](https://yummy0102.tistory.com/563)||
 |2022-09-26|[day103 🌕](https://velog.io/@newbiekim/day103-on7x296a)|||[Day72 🌱](https://yummy0102.tistory.com/564)||
-|2022-09-27||||||
+|2022-09-27|휴가|||||
 |2022-09-28||||||
 |2022-09-29||||||
 |2022-09-30||||||
@@ -364,4 +364,4 @@
 |2022-09-16|염지원|여행💸|3|
 |2022-09-16|손장미|삶의 여유|3|
 |2022-09-24|황인준|지인 약속1|
-
+|2022-09-27|손장미|휴식|2|
