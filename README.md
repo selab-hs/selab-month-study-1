@@ -185,7 +185,7 @@
 |2022-09-26|[day103 🌕](https://velog.io/@newbiekim/day103-on7x296a)|||[Day72 🌱](https://yummy0102.tistory.com/564)||
 |2022-09-27|휴가|||[Day73 🌱](https://yummy0102.tistory.com/566)||
 |2022-09-28|[day104 🌕](https://velog.io/@newbiekim/day104-q01fqubi)|||[Day74 🌱](https://yummy0102.tistory.com/569)||
-|2022-09-29||||||
+|2022-09-29|[day105 🌕](https://velog.io/@newbiekim/day105-nl9c1rrp)|||||
 |2022-09-30||||||
 
 <!--
