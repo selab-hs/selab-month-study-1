@@ -309,7 +309,6 @@
 |tree||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Tree.md)||[🔵](https://yummy0102.tistory.com/540)||
 |동적 계획법 dp|[🔵](https://unequaled-peach-7e5.notion.site/DP-30c2426abc34490b8e64f3ad13c223e6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Algorithm/Dynamic_Programming.md)||[🔵](https://yummy0102.tistory.com/495)|[🔵](https://github.com/twoosky/TIL/blob/main/Algorithm/DP.md)|
 |O() 표기법||||[🔵](https://yummy0102.tistory.com/491)||
-|DFS/BFS||||||
 
 ### 디자인 패턴
 
@@ -317,6 +316,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
 |상태 패턴|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
+|퍼사드 패턴||||||
+|프록시 패턴||||||
 
 ### Etc
 
