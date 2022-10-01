@@ -188,8 +188,8 @@
 |2022-09-26|[day103 🌕](https://velog.io/@newbiekim/day103-on7x296a)|[TIL104](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day72 🌱](https://yummy0102.tistory.com/564)||
 |2022-09-27|휴가|[TIL105](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day73 🌱](https://yummy0102.tistory.com/566)||
 |2022-09-28|[day104 🌕](https://velog.io/@newbiekim/day104-q01fqubi)|[TIL106](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||[Day74 🌱](https://yummy0102.tistory.com/569)||
-|2022-09-29|[day105 🌕](https://velog.io/@newbiekim/day105-nl9c1rrp)|[TIL107](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
-|2022-09-30|[day106 🌕](https://velog.io/@newbiekim/day106-u6tri2hr)|[TIL108](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||||
+|2022-09-29|[day105 🌕](https://velog.io/@newbiekim/day105-nl9c1rrp)|[TIL107](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||휴가||
+|2022-09-30|[day106 🌕](https://velog.io/@newbiekim/day106-u6tri2hr)|[TIL108](https://github.com/InJun2/TIL/blob/main/todo-list/2022/09)||휴가||
 
 </div>
 </details>
@@ -198,7 +198,7 @@
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2022-10-01|[day107 🌕](https://velog.io/@newbiekim/day107-nj7j4446)|||||
+|2022-10-01|[day107 🌕](https://velog.io/@newbiekim/day107-nj7j4446)|||[Day75 🌱](https://yummy0102.tistory.com/573)||
 |2022-10-02||||||
 |2022-10-03||||||
 |2022-10-04||||||
