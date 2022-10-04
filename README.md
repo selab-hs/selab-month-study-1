@@ -201,8 +201,11 @@
 |2022-10-01|[day107 🌕](https://velog.io/@newbiekim/day107-nj7j4446)|[TIL109](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day75 🌱](https://yummy0102.tistory.com/573)||
 |2022-10-02|[day108 🌕](https://velog.io/@newbiekim/day108-0954vdiv)|[TIL110](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day76 🌱](https://yummy0102.tistory.com/574)||
 |2022-10-03|[day109 🌕](https://velog.io/@newbiekim/day109-4y86hel9)|[TIL111](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day77 🌱](https://yummy0102.tistory.com/576)||
-|2022-10-04||[TIL112](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
+|2022-10-04|[day110 🌕](https://velog.io/@newbiekim/day110-y3v8b8dx)|[TIL112](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
 |2022-10-05||||||
+|2022-10-06||||||
+|2022-10-07||||||
+|2022-10-08||||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -317,7 +320,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
 |상태 패턴|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
-|퍼사드 패턴||||[🔵](https://yummy0102.tistory.com/580)||
+|퍼사드 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Facade-Pattern-5798af3756b44f78861b014bcfab9b13)|||[🔵](https://yummy0102.tistory.com/580)||
 |프록시 패턴||||||
 
 ### Etc
