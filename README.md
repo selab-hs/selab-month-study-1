@@ -321,7 +321,7 @@
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
 |상태 패턴|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
 |퍼사드 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Facade-Pattern-5798af3756b44f78861b014bcfab9b13)|||[🔵](https://yummy0102.tistory.com/580)||
-|프록시 패턴||||[🔵](https://yummy0102.tistory.com/581)||
+|프록시 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Proxy-Pattern-3740b2a6a0c749389ba7e4ccaca97ad6)|||[🔵](https://yummy0102.tistory.com/581)||
 
 ### Etc
 
