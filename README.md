@@ -204,7 +204,7 @@
 |2022-10-04|[day110 🌕](https://velog.io/@newbiekim/day110-y3v8b8dx)|[TIL112](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day78 🌱](https://yummy0102.tistory.com/579)||
 |2022-10-05|[day111 🌕](https://velog.io/@newbiekim/day111-u5xnr1hb)|||[Day79 🌱](https://yummy0102.tistory.com/582)||
 |2022-10-06|[day112 🌕](https://velog.io/@newbiekim/day112-djoc0iqh)|||[Day80 🌱]()||
-|2022-10-07|[day113 🌕](https://velog.io/@newbiekim/day113-tyldihnt)|||||
+|2022-10-07|[day113 🌕](https://velog.io/@newbiekim/day113-tyldihnt)|||[Day81 🌱](https://yummy0102.tistory.com/585)||
 |2022-10-08||||||
 
 <!--
