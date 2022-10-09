@@ -205,8 +205,8 @@
 |2022-10-05|[day111 🌕](https://velog.io/@newbiekim/day111-u5xnr1hb)|||[Day79 🌱](https://yummy0102.tistory.com/582)||
 |2022-10-06|[day112 🌕](https://velog.io/@newbiekim/day112-djoc0iqh)|||[Day80 🌱]()||
 |2022-10-07|[day113 🌕](https://velog.io/@newbiekim/day113-tyldihnt)|||[Day81 🌱](https://yummy0102.tistory.com/585)||
-|2022-10-08|[day114 🌕](https://velog.io/@newbiekim/day114-ihslkryc)|||||
-|2022-10-09|[day115 🌕](https://velog.io/@newbiekim/day115-u3ml0ma2)|||||
+|2022-10-08|[day114 🌕](https://velog.io/@newbiekim/day114-ihslkryc)|||[Day82 🌱](https://yummy0102.tistory.com/586)||
+|2022-10-09|[day115 🌕](https://velog.io/@newbiekim/day115-u3ml0ma2)||||[Day83 🌱](https://yummy0102.tistory.com/587)|
 |2022-10-10||||||
 |2022-10-11||||||
 |2022-10-12||||||
