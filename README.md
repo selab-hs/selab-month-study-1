@@ -209,8 +209,13 @@
 |2022-10-09|[day115 🌕](https://velog.io/@newbiekim/day115-u3ml0ma2)|||[Day83 🌱](https://yummy0102.tistory.com/587)||
 |2022-10-10|[day116 🌕](https://velog.io/@newbiekim/day116-cfmcj8ma)|||[Day84 🌱](https://yummy0102.tistory.com/588)||
 |2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|||[Day85 🌱](https://yummy0102.tistory.com/592)||
-|2022-10-12||||||
+|2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|||||
 |2022-10-13||||||
+|2022-10-14||||||
+|2022-10-15||||||
+|2022-10-16||||||
+|2022-10-17||||||
+|2022-10-18||||||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -371,6 +376,9 @@
 |2022-09-12 ~ 2022-09-18|[14주차](https://velog.io/@newbiekim/14주차-회고록)|[14주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-3주차.md)||[10주차](https://yummy0102.tistory.com/551)||
 |2022-09-19 ~ 2022-09-25||[15주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-4주차.md)||[11주차](https://yummy0102.tistory.com/577)||
 |2022-09-26 ~ 2022-10-02||[16주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-1주차.md)||[12주차](https://yummy0102.tistory.com/578)||
+|2022-10-03 ~ 2022-10-09|||||
+|2022-10-10 ~ 2022-10-16|||||
+|2022-10-17 ~ 2022-10-23|||||
 
 ---
 
