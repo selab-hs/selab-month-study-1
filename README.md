@@ -210,7 +210,7 @@
 |2022-10-10|[day116 🌕](https://velog.io/@newbiekim/day116-cfmcj8ma)|||[Day84 🌱](https://yummy0102.tistory.com/588)||
 |2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|||[Day85 🌱](https://yummy0102.tistory.com/592)||
 |2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|||[Day86 🌱](https://yummy0102.tistory.com/593)||
-|2022-10-13||||||
+|2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|||||
 |2022-10-14||||||
 |2022-10-15||||||
 |2022-10-16||||||
