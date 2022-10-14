@@ -239,7 +239,7 @@
 |라우터|[🔵](https://unequaled-peach-7e5.notion.site/a94e9401dd7e43dc9cfddbda7a9fc41e)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Router.md)||[🔵](https://yummy0102.tistory.com/555)||
 |HTTP vs HTTPS|[🔵](https://unequaled-peach-7e5.notion.site/HTTP-vs-HTTPS-26aac037fde34bdf87775affd9a194b5)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP-HTTPs.md)||||
 |Cookie vs Session|[🔵](https://unequaled-peach-7e5.notion.site/Cookie-vs-Session-ab4fd30da4ae4a2287f08f1fccebb981)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Cookie-Session.md)||[🔵](https://yummy0102.tistory.com/442)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/Cookie%20%26%20Session.md)|
-|http 1, 2, 3|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP_1-2-3.md)||[🔴](https://yummy0102.tistory.com/536)||
+|http 1, 2, 3|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP_1-2-3.md)||[🔵](https://yummy0102.tistory.com/536)||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
 |ipv4 vs ipv6||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IPv4-IPv6.md)||||
 
