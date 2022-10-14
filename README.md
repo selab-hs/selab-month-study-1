@@ -210,8 +210,8 @@
 |2022-10-10|[day116 🌕](https://velog.io/@newbiekim/day116-cfmcj8ma)|[TIL118](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day84 🌱](https://yummy0102.tistory.com/588)||
 |2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|[TIL119](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day85 🌱](https://yummy0102.tistory.com/592)||
 |2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|[TIL120](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day86 🌱](https://yummy0102.tistory.com/593)||
-|2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|[TIL121](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
-|2022-10-14||[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
+|2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|[TIL121](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day87 🌱](https://yummy0102.tistory.com/594)||
+|2022-10-14||[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day88 🌱](https://yummy0102.tistory.com/599)||
 |2022-10-15||||||
 |2022-10-16||||||
 |2022-10-17||||||
