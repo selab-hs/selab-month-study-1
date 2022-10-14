@@ -301,7 +301,7 @@
 |Java Collection|[🔵](https://www.notion.so/Collection-bb8e974ef89d4b7eb1430fe941c24de0)|[🔵](https://github.com/InJun2/TIL/tree/main/Stack/Java/Collection.md)||||
 |Java의 Object|[🔵](https://unequaled-peach-7e5.notion.site/Java-Object-d0602e800edc49d48cd15ead58352b86)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Object.md)||||
 |java 메모리 구조||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java%20Memory%20structure.md)||[🔵](https://yummy0102.tistory.com/412)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/JVM.md)|
-|checked exception vs unchecked exception|[🔵](https://unequaled-peach-7e5.notion.site/Checked-Exception-vs-Unchecked-Exception-52aa45c479a04fc68c0897781dd9876f)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||[🔴](https://yummy0102.tistory.com/422)||
+|checked exception vs unchecked exception|[🔵](https://unequaled-peach-7e5.notion.site/Checked-Exception-vs-Unchecked-Exception-52aa45c479a04fc68c0897781dd9876f)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||[🔵](https://yummy0102.tistory.com/600)||
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
 |Jpa 1차 캐시||||||
