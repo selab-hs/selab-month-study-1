@@ -202,16 +202,16 @@
 |2022-10-02|[day108 🌕](https://velog.io/@newbiekim/day108-0954vdiv)|[TIL110](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day76 🌱](https://yummy0102.tistory.com/574)||
 |2022-10-03|[day109 🌕](https://velog.io/@newbiekim/day109-4y86hel9)|[TIL111](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day77 🌱](https://yummy0102.tistory.com/576)||
 |2022-10-04|[day110 🌕](https://velog.io/@newbiekim/day110-y3v8b8dx)|[TIL112](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day78 🌱](https://yummy0102.tistory.com/579)||
-|2022-10-05|[day111 🌕](https://velog.io/@newbiekim/day111-u5xnr1hb)|||[Day79 🌱](https://yummy0102.tistory.com/582)||
-|2022-10-06|[day112 🌕](https://velog.io/@newbiekim/day112-djoc0iqh)|||[Day80 🌱]()||
-|2022-10-07|[day113 🌕](https://velog.io/@newbiekim/day113-tyldihnt)|||[Day81 🌱](https://yummy0102.tistory.com/585)||
-|2022-10-08|[day114 🌕](https://velog.io/@newbiekim/day114-ihslkryc)|||[Day82 🌱](https://yummy0102.tistory.com/586)||
-|2022-10-09|[day115 🌕](https://velog.io/@newbiekim/day115-u3ml0ma2)|||[Day83 🌱](https://yummy0102.tistory.com/587)||
-|2022-10-10|[day116 🌕](https://velog.io/@newbiekim/day116-cfmcj8ma)|||[Day84 🌱](https://yummy0102.tistory.com/588)||
-|2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|||[Day85 🌱](https://yummy0102.tistory.com/592)||
-|2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|||[Day86 🌱](https://yummy0102.tistory.com/593)||
-|2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|||[Day87 🌱](https://yummy0102.tistory.com/594)||
-|2022-10-14||||[Day88 🌱](https://yummy0102.tistory.com/599)||
+|2022-10-05|[day111 🌕](https://velog.io/@newbiekim/day111-u5xnr1hb)|[TIL113](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day79 🌱](https://yummy0102.tistory.com/582)||
+|2022-10-06|[day112 🌕](https://velog.io/@newbiekim/day112-djoc0iqh)|[TIL114](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day80 🌱]()||
+|2022-10-07|[day113 🌕](https://velog.io/@newbiekim/day113-tyldihnt)|[TIL115](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day81 🌱](https://yummy0102.tistory.com/585)||
+|2022-10-08|[day114 🌕](https://velog.io/@newbiekim/day114-ihslkryc)|[TIL116](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day82 🌱](https://yummy0102.tistory.com/586)||
+|2022-10-09|[day115 🌕](https://velog.io/@newbiekim/day115-u3ml0ma2)|[TIL117](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day83 🌱](https://yummy0102.tistory.com/587)||
+|2022-10-10|[day116 🌕](https://velog.io/@newbiekim/day116-cfmcj8ma)|[TIL118](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day84 🌱](https://yummy0102.tistory.com/588)||
+|2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|[TIL119](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day85 🌱](https://yummy0102.tistory.com/592)||
+|2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|[TIL120](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day86 🌱](https://yummy0102.tistory.com/593)||
+|2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|[TIL121](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
+|2022-10-14||[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
 |2022-10-15||||||
 |2022-10-16||||||
 |2022-10-17||||||
@@ -376,7 +376,7 @@
 |2022-09-12 ~ 2022-09-18|[14주차](https://velog.io/@newbiekim/14주차-회고록)|[14주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-3주차.md)||[10주차](https://yummy0102.tistory.com/551)||
 |2022-09-19 ~ 2022-09-25||[15주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-4주차.md)||[11주차](https://yummy0102.tistory.com/577)||
 |2022-09-26 ~ 2022-10-02||[16주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-1주차.md)||[12주차](https://yummy0102.tistory.com/578)||
-|2022-10-03 ~ 2022-10-09|||||
+|2022-10-03 ~ 2022-10-09||[17주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-2주차.md)|||
 |2022-10-10 ~ 2022-10-16|||||
 |2022-10-17 ~ 2022-10-23|||||
 
