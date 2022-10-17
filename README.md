@@ -214,7 +214,7 @@
 |2022-10-14||[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day88 🌱](https://yummy0102.tistory.com/599)||
 |2022-10-15||||||
 |2022-10-16||||||
-|2022-10-17|[day120 🌕](https://velog.io/@newbiekim/day120-7sgwc1bm)|||||
+|2022-10-17|[day120 🌕](https://velog.io/@newbiekim/day120-7sgwc1bm)|||[Day90 🌱](https://yummy0102.tistory.com/m/604)||
 |2022-10-18||||||
 
 <!--
