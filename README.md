@@ -304,7 +304,7 @@
 |checked exception vs unchecked exception|[🔵](https://unequaled-peach-7e5.notion.site/Checked-Exception-vs-Unchecked-Exception-52aa45c479a04fc68c0897781dd9876f)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Exception%20Checked-Unckecked.md)||[🔵](https://yummy0102.tistory.com/600)||
 |Jpa 더티체킹|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Dirty-Checking-1f5a116e6c5c402292e4cc437ebfe543)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Dirty%20Checking.md)||||
 |Jpa 엔티티매니저|[🔵](https://unequaled-peach-7e5.notion.site/JPA-Entity-Manager-415292eb63824316996287a9c5932d16)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/JPA%20Entity%20Manager.md)||||
-|Jpa 1차 캐시||||||
+|Jpa 1차 캐시|[🔵](https://unequaled-peach-7e5.notion.site/JPA-1-cfbcd9a05fb142ea9c6c15011414ac43)|||||
 |오버라이딩 vs 오버로딩|[🔵](https://unequaled-peach-7e5.notion.site/Overloading-vs-Overriding-05776dbf80474138be57b198d27c64af)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Overloading-Overriding.md)||[🔵](https://yummy0102.tistory.com/465)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%2C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)|
 |Java compile 과정||||[🔵](https://yummy0102.tistory.com/510)||
 |Java version별 차이점|[🔵](https://unequaled-peach-7e5.notion.site/9d1b5d12249046a7bddde696c0238230)|[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Java/Java_Versions.md)||[🔵](https://yummy0102.tistory.com/518)||
