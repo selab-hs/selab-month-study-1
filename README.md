@@ -390,7 +390,7 @@
 |2022-09-19 ~ 2022-09-25||[15주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-4주차.md)||[11주차](https://yummy0102.tistory.com/577)||
 |2022-09-26 ~ 2022-10-02||[16주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-1주차.md)||[12주차](https://yummy0102.tistory.com/578)||
 |2022-10-03 ~ 2022-10-09||[17주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-2주차.md)||[13주차](https://yummy0102.tistory.com/601)||
-|2022-10-10 ~ 2022-10-16|||||
+|2022-10-10 ~ 2022-10-16|||[14주차](https://yummy0102.tistory.com/613)||
 |2022-10-17 ~ 2022-10-23|||||
 
 ---
