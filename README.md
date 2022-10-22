@@ -211,15 +211,15 @@
 |2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|[TIL119](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day85 🌱](https://yummy0102.tistory.com/592)||
 |2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|[TIL120](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day86 🌱](https://yummy0102.tistory.com/593)||
 |2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|[TIL121](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day87 🌱](https://yummy0102.tistory.com/594)||
-|2022-10-14|정처기 공부|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day88 🌱](https://yummy0102.tistory.com/599)||
-|2022-10-15|정처기 공부|||Day89 🌱||
-|2022-10-16|정처기 시험|||Day89 🌱||
-|2022-10-17|[day120 🌕](https://velog.io/@newbiekim/day120-7sgwc1bm)|||[Day90 🌱](https://yummy0102.tistory.com/m/604)||
-|2022-10-18|[day121 🌕](https://velog.io/@newbiekim/day121-49zu2e9m)|||[Day91 🌱](https://yummy0102.tistory.com/m/605)||
-|2022-10-19|[day122 🌕](https://velog.io/@newbiekim/day122-r9zffuwn)|||[Day92 🌱](https://yummy0102.tistory.com/608)||
-|2022-10-20|[day123 🌕](https://velog.io/@newbiekim/day123-jc2tkl5i)|||[Day93 🌱](https://yummy0102.tistory.com/609)||
-|2022-10-21|[day124 🌕](https://velog.io/@newbiekim/day124-c48rsydf)|||[Day94 🌱](https://yummy0102.tistory.com/611)||
-|2022-10-22|[day125 🌕](https://velog.io/@newbiekim/day125-w1izi1aa)|||[Day95 🌱](https://yummy0102.tistory.com/612)||
+|2022-10-14|정처기 공부|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)|[Day88 🌱](https://yummy0102.tistory.com/599)||
+|2022-10-15|정처기 공부|[TIL123](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||Day89 🌱||
+|2022-10-16|정처기 시험|[TIL124](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||Day89 🌱||
+|2022-10-17|[day120 🌕](https://velog.io/@newbiekim/day120-7sgwc1bm)|[TIL125](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day90 🌱](https://yummy0102.tistory.com/m/604)||
+|2022-10-18|[day121 🌕](https://velog.io/@newbiekim/day121-49zu2e9m)|[TIL126](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day91 🌱](https://yummy0102.tistory.com/m/605)||
+|2022-10-19|[day122 🌕](https://velog.io/@newbiekim/day122-r9zffuwn)|[TIL127](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day92 🌱](https://yummy0102.tistory.com/608)||
+|2022-10-20|[day123 🌕](https://velog.io/@newbiekim/day123-jc2tkl5i)|[TIL128](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day93 🌱](https://yummy0102.tistory.com/609)||
+|2022-10-21|[day124 🌕](https://velog.io/@newbiekim/day124-c48rsydf)|[TIL129](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day94 🌱](https://yummy0102.tistory.com/611)||
+|2022-10-22|[day125 🌕](https://velog.io/@newbiekim/day125-w1izi1aa)|[TIL130](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day95 🌱](https://yummy0102.tistory.com/612)||
 |2022-10-23||||||
 |2022-10-24||||||
 |2022-10-25||||||
@@ -412,7 +412,8 @@
 |2022-09-15|염지원|여행💸|4|
 |2022-09-16|염지원|여행💸|3|
 |2022-09-16|손장미|삶의 여유|3|
-|2022-09-24|황인준|지인 약속1|
+|2022-09-24|황인준|지인 약속|1|
 |2022-09-27|손장미|휴식|2|
 |2022-09-29|염지원|호캉스|2|
 |2022-09-30|염지원|휴식|1|
+|2022-10-21|황인준|지인 약속|0|
