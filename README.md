@@ -343,19 +343,19 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Singleton-Pattern-8e5d9f2cb16349dbaff10cc58de374a1)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Singleton.md)||[🔵](https://yummy0102.tistory.com/477)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)|
 |상태 패턴|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/State.md)||[🔵](https://yummy0102.tistory.com/482)|[🔵](https://github.com/twoosky/TIL/blob/main/Java/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)|
-|퍼사드 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Facade-Pattern-5798af3756b44f78861b014bcfab9b13)|||[🔵](https://yummy0102.tistory.com/580)||
-|프록시 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Proxy-Pattern-3740b2a6a0c749389ba7e4ccaca97ad6)|||[🔵](https://yummy0102.tistory.com/581)||
+|퍼사드 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Facade-Pattern-5798af3756b44f78861b014bcfab9b13)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Facade.md)||[🔵](https://yummy0102.tistory.com/580)||
+|프록시 패턴|[🔵](https://unequaled-peach-7e5.notion.site/Proxy-Pattern-3740b2a6a0c749389ba7e4ccaca97ad6)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/Proxy.md)||[🔵](https://yummy0102.tistory.com/581)||
 
 ### Etc
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|GIT ||||||
+|GIT ||[🔵](https://github.com/InJun2/TIL/blob/main/ETC/GIT.md)||||
 |Call By Value와 Call By Reference|[🔵](https://unequaled-peach-7e5.notion.site/Call-By-Value-Call-By-Reference-in-JAVA-f09855ffc027438391f4402f1d27cd8e)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Call%20by%20Value_Call%20by%20Reference.md)|||
 |Dto|[🔵](https://unequaled-peach-7e5.notion.site/DTO-2f398a4ac5c8402c9867849a20206edb)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/DTO.md)||[🔵](https://yummy0102.tistory.com/567)||
 |객체지향 vs 절차지향|[🔵](https://unequaled-peach-7e5.notion.site/vs-6b639b2dd7634c33bbc51c319fe1b776)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Software%20Engineering/OOP%20vs%20POP.md)||[🔴](https://yummy0102.tistory.com/424)||
 |sdk와 api||[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/SDK%20-API.md)||||
-|개발자가 되고 싶은 이유||||||
+|개발자가 되고 싶은 이유||[🔵](https://github.com/InJun2/TIL/blob/main/ETC/개발자가되고싶은이유.md)||||
 |좋은 개발자란 무엇일까요|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/좋은개발자란%3F.md)||[🔴](https://yummy0102.tistory.com/494)||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||||
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
@@ -390,7 +390,7 @@
 |2022-09-19 ~ 2022-09-25||[15주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-09-4주차.md)||[11주차](https://yummy0102.tistory.com/577)||
 |2022-09-26 ~ 2022-10-02||[16주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-1주차.md)||[12주차](https://yummy0102.tistory.com/578)||
 |2022-10-03 ~ 2022-10-09||[17주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-2주차.md)||[13주차](https://yummy0102.tistory.com/601)||
-|2022-10-10 ~ 2022-10-16||||[14주차](https://yummy0102.tistory.com/613)||
+|2022-10-10 ~ 2022-10-16||[18주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-3주차.md)||[14주차](https://yummy0102.tistory.com/613)||
 |2022-10-17 ~ 2022-10-23|||||
 
 ---
