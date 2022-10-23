@@ -211,7 +211,7 @@
 |2022-10-11|[day117 🌕](https://velog.io/@newbiekim/day117-i50a3cgq)|[TIL119](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day85 🌱](https://yummy0102.tistory.com/592)||
 |2022-10-12|[day118 🌕](https://velog.io/@newbiekim/day118-4fcxps5e)|[TIL120](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day86 🌱](https://yummy0102.tistory.com/593)||
 |2022-10-13|[day119 🌕](https://velog.io/@newbiekim/day119-xvxrqqf4)|[TIL121](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day87 🌱](https://yummy0102.tistory.com/594)||
-|2022-10-14|정처기 공부|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)|[Day88 🌱](https://yummy0102.tistory.com/599)||
+|2022-10-14|정처기 공부|[TIL122](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day88 🌱](https://yummy0102.tistory.com/599)||
 |2022-10-15|정처기 공부|[TIL123](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||Day89 🌱||
 |2022-10-16|정처기 시험|[TIL124](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||Day89 🌱||
 |2022-10-17|[day120 🌕](https://velog.io/@newbiekim/day120-7sgwc1bm)|[TIL125](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day90 🌱](https://yummy0102.tistory.com/m/604)||
