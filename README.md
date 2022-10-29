@@ -224,9 +224,9 @@
 |2022-10-24|[day127 🌕](https://velog.io/@newbiekim/day127-1a1qir7i)|[TIL132](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day97 🌱](https://yummy0102.tistory.com/615)||
 |2022-10-25|[day128 🌕](https://velog.io/@newbiekim/day128-5gxvf8vy)|[TIL133](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day98 🌱](https://yummy0102.tistory.com/618)||
 |2022-10-26|[day129 🌕](https://velog.io/@newbiekim/day129-rrpu5vr9)|[TIL134](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day99 🌱](https://yummy0102.tistory.com/619)||
-|2022-10-27||[TIL133](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day100 🌱](https://yummy0102.tistory.com/621)||
-|2022-10-28||||||
-|2022-10-29||||||
+|2022-10-27||[TIL135](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day100 🌱](https://yummy0102.tistory.com/621)||
+|2022-10-28||[TIL136](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
+|2022-10-29||[TIL137](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||||
 |2022-10-30||||||
 |2022-10-31||||||
 
