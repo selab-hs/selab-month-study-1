@@ -231,8 +231,8 @@
 |2022-10-27||[TIL135](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day100 🌱](https://yummy0102.tistory.com/621)||
 |2022-10-28||[TIL136](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day101 🌱](https://yummy0102.tistory.com/622)||
 |2022-10-29||[TIL137](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day102 🌱](https://yummy0102.tistory.com/623)||
-|2022-10-30||||[Day103 🌱](https://yummy0102.tistory.com/624)||
-|2022-10-31||||[Day104 🌱](https://yummy0102.tistory.com/625)||
+|2022-10-30||[TIL138](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day103 🌱](https://yummy0102.tistory.com/624)||
+|2022-10-31||[TIL139](https://github.com/InJun2/TIL/blob/main/todo-list/2022/10)||[Day104 🌱](https://yummy0102.tistory.com/625)||
 
 
 </div>
@@ -242,7 +242,7 @@
 
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2022-11-01||||[Day105 🌱](https://yummy0102.tistory.com/629)||
+|2022-11-01||[TIL140](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day105 🌱](https://yummy0102.tistory.com/629)||
 |2022-11-02||||||
 |2022-11-03||||||
 |2022-11-04||||||
