@@ -298,6 +298,7 @@
 |http 1, 2, 3|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP_1-2-3.md)||[🔵](https://yummy0102.tistory.com/536)||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
 |ipv4 vs ipv6||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IPv4-IPv6.md)||||
+|http status code||||||
 
 ### Database
 
@@ -312,6 +313,8 @@
 |sql injection|[🔵](https://unequaled-peach-7e5.notion.site/SQL-Injection-b11317435c9f422e94018142d4da3b14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/SQL_Injection.md)||[🔵](https://yummy0102.tistory.com/499)||
 |정규화|🔴|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/Normalization.md)||||
 |db view|[🔵](https://unequaled-peach-7e5.notion.site/DB-View-1b96d794ca7a470fb948bc3ce1e64f35)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/DB/DB_View.md)||[🔵](https://yummy0102.tistory.com/525)||
+|반정규화||||||
+|mysql과 oracle의 차이점||||||
 
 ### Operate System
 
@@ -328,6 +331,8 @@
 |커널|[🔵](https://unequaled-peach-7e5.notion.site/Kernel-33a5b8f1c882413180ddbd8019430435)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||[🔵](https://yummy0102.tistory.com/489)||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
 |시스템 콜|[🔵](https://unequaled-peach-7e5.notion.site/System-Call-adad5c0b9e374c28b0539567e388988c)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
+|표준 입력(STDIN), 표준 출력(STDOUT), 표준 에러(STDERR)||||||
+
 
 ### Spring
 
@@ -367,6 +372,7 @@
 |mutable vs immutable||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Java/Mutable-Immutable.md)||[🔴](https://yummy0102.tistory.com/447)||
 |인터페이스와 추상클래스|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Notation.md)||[🔵](https://yummy0102.tistory.com/508)||
+|final||||||
 
 ### Algorithm
 
