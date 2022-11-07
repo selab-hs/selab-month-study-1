@@ -243,12 +243,12 @@
 |일자|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2022-11-01||[TIL140](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day105 🌱](https://yummy0102.tistory.com/629)||
-|2022-11-02||||[Day106 🌱](https://yummy0102.tistory.com/633)||
-|2022-11-03||||[Day107 🌱](https://yummy0102.tistory.com/636)||
-|2022-11-04||||휴가||
-|2022-11-05||||[Day108 🌱](https://yummy0102.tistory.com/637)||
-|2022-11-06||||[Day109 🌱]()||
-|2022-11-07||||[Day110 🌱](https://yummy0102.tistory.com/638)||
+|2022-11-02||[TIL141](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day106 🌱](https://yummy0102.tistory.com/633)||
+|2022-11-03||[TIL142](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day107 🌱](https://yummy0102.tistory.com/636)||
+|2022-11-04||[TIL143](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||휴가||
+|2022-11-05||[TIL144](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day108 🌱](https://yummy0102.tistory.com/637)||
+|2022-11-06||[TIL145](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day109 🌱]()||
+|2022-11-07||[TIL146](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day110 🌱](https://yummy0102.tistory.com/638)||
 |2022-11-08||||||
 |2022-11-09||||||
 |2022-11-10||||||
