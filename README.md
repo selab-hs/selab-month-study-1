@@ -249,7 +249,7 @@
 |2022-11-05||[TIL144](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day108 🌱](https://yummy0102.tistory.com/637)||
 |2022-11-06||[TIL145](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day109 🌱]()||
 |2022-11-07||[TIL146](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day110 🌱](https://yummy0102.tistory.com/638)||
-|2022-11-08||||||
+|2022-11-08||[TIL147](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||||
 |2022-11-09||||||
 |2022-11-10||||||
 |2022-11-11||||||
