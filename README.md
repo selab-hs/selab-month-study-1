@@ -254,9 +254,9 @@
 |2022-11-10||[TIL149](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day113 🌱](https://yummy0102.tistory.com/643)||
 |2022-11-11||[TIL150](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||||
 |2022-11-12||[TIL151](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day115 🌱](https://yummy0102.tistory.com/644)||
-|2022-11-13||||[Day116 🌱](https://yummy0102.tistory.com/645)||
-|2022-11-14||||[Day117 🌱]()||
-|2022-11-15||||||
+|2022-11-13||[TIL152](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day116 🌱](https://yummy0102.tistory.com/645)||
+|2022-11-14||[TIL153](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day117 🌱]()||
+|2022-11-15||[TIL154](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||||
 |2022-11-16||||||
 |2022-11-17||||||
 |2022-11-18||||||
@@ -443,6 +443,7 @@
 |2022-10-17 ~ 2022-10-23||[19주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-4주차.md)||[15주차](https://yummy0102.tistory.com/616)||
 |2022-10-24 ~ 2022-10-30||[20주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-10-5주차.md)||[16주차](https://yummy0102.tistory.com/634)||
 |2022-10-31 ~ 2022-11-06||[21주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-11-1주차.md)||||
+|2022-11-07 ~ 2022-11-13||[21주차](https://github.com/InJun2/TIL/blob/main/todo-list/주간회고록/22-11-2주차.md)||||
 
 ---
 
