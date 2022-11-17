@@ -256,7 +256,7 @@
 |2022-11-12||[TIL151](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day115 🌱](https://yummy0102.tistory.com/644)||
 |2022-11-13||[TIL152](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||[Day116 🌱](https://yummy0102.tistory.com/645)||
 |2022-11-14||[TIL153](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||채용과제||
-|2022-11-15||[TIL154](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||채용과제진행||
+|2022-11-15||[TIL154](https://github.com/InJun2/TIL/blob/main/todo-list/2022/11)||채용과제||
 |2022-11-16||||면접준비||
 |2022-11-17||||[Day117 🌱]()||
 |2022-11-17||||||
