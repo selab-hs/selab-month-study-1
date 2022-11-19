@@ -298,7 +298,7 @@
 |http 1, 2, 3|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/HTTP_1-2-3.md)||[🔵](https://yummy0102.tistory.com/536)||
 |cast (broadcast, unicast, multicast 등..)|[🔵](https://unequaled-peach-7e5.notion.site/Cast-739d77cd8f7942ce9a1e402aee162e14)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Cast.md)||[🔵](https://yummy0102.tistory.com/503)||
 |ipv4 vs ipv6||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/IPv4-IPv6.md)||||
-|http status code||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Http_Status_Code.md)||||
+|http status code||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/Http_Status_Code.md)||[🔵](https://yummy0102.tistory.com/649)||
 
 ### Database
 
