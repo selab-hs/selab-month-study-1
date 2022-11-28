@@ -338,7 +338,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||||
+|IOC, DI, AOP|[🔵](https://unequaled-peach-7e5.notion.site/IoC-DI-AOP-77994381219d4b95a08a46695452e711)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/IOC-DI-AOP.md)||[🔴](https://yummy0102.tistory.com/655)||
 |bean vs component|[🔵](https://unequaled-peach-7e5.notion.site/27967c9ff2624ed2bebc298d0dcfc7a0)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Bean-Component.md)||[🔵](https://yummy0102.tistory.com/526)||
 |스프링|[🔵](https://unequaled-peach-7e5.notion.site/Spring-3890e16b35954548b329b880355527c2)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring.md)||||
 |스프링의 동작 과정||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Spring/Spring-Process.md)||||
