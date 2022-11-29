@@ -331,7 +331,8 @@
 |커널|[🔵](https://unequaled-peach-7e5.notion.site/Kernel-33a5b8f1c882413180ddbd8019430435)|[🔴](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Kernel.md)||[🔵](https://yummy0102.tistory.com/489)||
 |Critical Section|[🔵](https://unequaled-peach-7e5.notion.site/Critical-Section-473ffc00b23d46c385a3de874d253951)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Critical_Section.md)||[🔵](https://yummy0102.tistory.com/444)||
 |시스템 콜|[🔵](https://unequaled-peach-7e5.notion.site/System-Call-adad5c0b9e374c28b0539567e388988c)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/System_Call.md)||[🔵](https://yummy0102.tistory.com/485)||
-|표준 입력(STDIN), 표준 출력(STDOUT), 표준 에러(STDERR)||||||
+|표준 입력(STDIN), 표준 출력(STDOUT), 표준 에러(STDERR)||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Standard_Stream.md)||||
+|||||||
 
 
 ### Spring
@@ -372,7 +373,7 @@
 |mutable vs immutable||[🔴](https://github.com/InJun2/TIL/blob/main/Stack/Java/Mutable-Immutable.md)||[🔴](https://yummy0102.tistory.com/447)||
 |인터페이스와 추상클래스|🔴|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Interface-Abstract_Class.md)||[🔵](https://yummy0102.tistory.com/467)|[🔵](https://github.com/twoosky/TIL/tree/main/Java)|
 |스네이크, 파스칼, 카멜 케이스|[🔵](https://unequaled-peach-7e5.notion.site/983e79e8f6de434a87fd2111af3387e6)|[🔵](https://github.com/InJun2/TIL/blob/main/Stack/Java/Notation.md)||[🔵](https://yummy0102.tistory.com/508)||
-|final||||||
+|final||[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/OS/Standard_Stream.md)||||
 
 ### Algorithm
 
