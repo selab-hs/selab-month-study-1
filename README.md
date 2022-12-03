@@ -412,6 +412,7 @@
 |다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지||||||
 |java와 c언어의 차이|[🔵](https://unequaled-peach-7e5.notion.site/Java-C-c5fc8ee5b7bb493caaa0a456aca887b3)|[🔵](https://github.com/InJun2/TIL/blob/main/ETC/Java-C%EC%B0%A8%EC%9D%B4.md)||[🔵](https://yummy0102.tistory.com/545)||
 |이루고 싶은 목표||||||
+|Message Queue||||||
 
 <!--
 |테스트1|테스트2|테스트3|
