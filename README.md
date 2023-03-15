@@ -286,7 +286,7 @@
 
 |주제|손장미|황인준|이우주|염지원|이하늘|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[]()|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
+|osi 7계층|[🔵](https://unequaled-peach-7e5.notion.site/OSI-7-73ec37a6550c44a0b078a83525e53b53)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI-7Layer.md)||[🔵](https://yummy0102.tistory.com/671)|[🔵](https://github.com/twoosky/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |OSI L4|[🔵](https://unequaled-peach-7e5.notion.site/OSI-L4-6a6ebb861cbe45179a87ba35a4ffb55d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/OSI%20L4.md)||||
 |DNS|[🔵](https://unequaled-peach-7e5.notion.site/DNS-7cc3a20cd64341ddb268830bb4b513d7)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/network/DNS.md)||||
 |REST API|[🔵](https://unequaled-peach-7e5.notion.site/REST-API-fcf5290aefb94b27851f03fdf724083d)|[🔵](https://github.com/InJun2/TIL/blob/main/CS-topic/Design%20Pattern/RESTAPI.md)||[🔵](https://yummy0102.tistory.com/398)|[🔵](https://github.com/twoosky/TIL/blob/main/Spring/REST%20API.md)|
